@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<thread>
+  <submission id="162950857.0" index="19" link="https://www.reddit.com//r/changemyview/comments/2p0lop/cmv_a_direct_online_democracy_where_people_vote/">
+    <title>CMV: A direct online democracy where people vote on issues instead of candidates would be better than always having to vote for the less bad of 2 candidates.</title>
+    <original_poster>spappletrap</original_poster>
+    <original_post>A direct online representative democracy would work better than a republic now that the internet exists.
+
+Before, geography limited people so that they couldn't all participate in an election.  Now we have the internet.  True democracy hasn't been around since Athens--the last time all the people in a society was feasibly able to get together in a forum to vote.  But now it's possible.
+
+I think it would work just fine, and it would even mesh well with our current system.
+
+It's very frustrating how our current parties align. It's like they're perfectly aligned to create maximum fighting between themselves, but in the end up being exactly the same on all the most important issues, like war, monetary policy, labor rights, and energy investment--where the policy of both is pretty much "Fuck you."
+
+Voting on issues would make it so someone who is very religious could vote pro-life, but also pro-environmentalist.
+
+Someone could vote for gay marriage, but also against gun control.  Right now, these things are essentially impossible in national elections.
+
+CMV
+
+Or go to /r/openparty/ and start working it out if you agree:
+
+
+
+Edit.  One thing that has been brought up, that affects the discussion pretty deeply is the distinction between: 
+
+a)a system where every single vote has to be done through every single person.  
+
+b) a system where people can then vote on policies related to the system itself, and so could evolve.
+
+I was imagining (b) when I posted this, but there's a lot of discussion around (a) as well.
+
+Edit2.  Just to pre-empt a few of the common counter-arguments:
+
+-Most people are stupid
+
+OK, that's a common opinion, not one that I personally hold.  But even if people are stupid, we now have a science committee full of people who don't believe in evolution or climate change.  I would trust randomly selected people from the country over that.  It's been shown time and time again that crowdsourcing performs just fine.  
+
+-Voter Turnout
+
+People wouldn't be forced to vote on topics that don't apply to them or they don't understand.  In fact, they could just as well be encouraged not to.  I see it as a negative that I vote for Obama because I want public healthcare, but then I also have to go with his opinion on farm subsidies, when I don't know what that is, and I don't have time to research it.  In this system, I wouldn't have to.  
+
+-Hackers
+
+I think if the vast majority of the internet can run on open-source software, we can figure something out on this front.  There are security issues with our current methods, too, but we figured it out.
+
+
+Edit 3:
+
+OK people, we can throw it in.  Cmall2 C-ed my V.  It was pretty good.
+The basic points were:
+
+-The dynamics of when a minority would get totally screwed would be very hard to predict.
+
+-The whole system would potentially be very volatile.  Some things which should probably change slowly could change very quickly.
+
+While I still think a variation on such a system could be more effective, the statement I made is that this particular kind of system would be better than the one we have now, and now I don't know if that's true.  So it's no longer my view!
+
+Thanks for the good times guys!
+https://www.youtube.com/watch?v=nSz16ngdsG0
+
+
+
+Edit 4:  One last edit for posterity:  It's kind of funny all these people who are deathly afraid of people voting in their own interest, yet believe firmly in the invisible hand.  
+
+_____
+
+&amp;gt; *Hello, users of CMV! This is a footnote from your moderators. We'd just like to remind you of a couple of things. Firstly, please remember to* ***[read through our rules](http://www.reddit.com/r/changemyview/wiki/rules)***. *If you see a comment that has broken one, it is more effective to report it than downvote it. Speaking of which,* ***[downvotes don't change views](http://www.reddit.com/r/changemyview/wiki/guidelines#wiki_upvoting.2Fdownvoting)****! If you are thinking about submitting a CMV yourself, please have a look through our* ***[popular topics wiki](http://www.reddit.com/r/changemyview/wiki/populartopics)*** *first. Any questions or concerns? Feel free to* ***[message us](http://www.reddit.com/message/compose?to=/r/changemyview)***. *Happy CMVing!*</original_post>
+    </submission>
+  <comment id="27499825105.0" user="insaneHoshi" delta="False">
+    <text>A key aspect of authentication is the assumption that both sides are secure.
+
+Considering that about 30% of computers are infected with malware there is not possible way to have a secure online voteing system.
+
+</text>
+    </comment>
+  <comment id="27499984737.0" user="spappletrap" delta="False">
+    <text>Malware isn't just "general malware"  It does specific things to specific files.  Even if it gave root access, there would be ways of encrypting the vote such that the software on the computer wouldn't matter.  
+
+Have a physical device that encrypts the response before it is even stored on the computer.</text>
+    </comment>
+  <comment id="27500202356.0" user="insaneHoshi" delta="False">
+    <text>No there are no way s of encrypting the vote, because no matter how secure the voteing system is, the malware could just put its own ui on the voteing page.</text>
+    </comment>
+  <comment id="27500298030.0" user="spappletrap" delta="False">
+    <text>Imagine a device that is sent out to registered voters.  The device encrypts the vote.  Then you plug the device in to your computer.  It uses the computer to send the encrypted file from the device to a few of a network of servers which each register the vote and verify it against the others servers that it was sent to.  They then increment a tally and store the encrypted vote as part of a public encrypted register.
+
+The UI doesn't matter, it's a protocol.  The only way to screw it up is to modify the encrypted vote on each path it takes, to modify the device, or to modify the tally.  But, if the tallies are redundant, too, you would have to modify every tally across a network.</text>
+    </comment>
+  <comment id="27500319329.0" user="insaneHoshi" delta="False">
+    <text>&amp;gt; Imagine a device that is sent out to registered voters. The device encrypts the vote. Then you plug the device in to your computer
+
+Imagine that you're going to be mailing out 300 million of these devices, so there's going to be some system that exists to replace these devices.  Now given about 30% of computers are compromised and personal data is available to replace these devices, it will be very easy for an attacker spoof a replacement device, considering thats what they currently do with passports, birth certificates and social security numbers.
+
+Plus an attacker would have access to this hardware anyways, since they have access to the computer.  Whats preventing the attacker from just turning off the USB, to disable the users voteing system on the day of the vote?
+
+&amp;gt;The UI doesn't matter
+
+Yes it does, what's prevents the UI spoofing the report saying "You voted for Y" when the infected system records a vote for X or no vote instead.  There is no possible way to encrypt user input, an infected system can see when a voter Hits 'X' and then uses their credentials to vote for 'Y'</text>
+    </comment>
+  <comment id="27500355636.0" user="spappletrap" delta="False">
+    <text>&amp;gt;Yes it does, what's prevents the UI spoofing the report saying "You voted for Y" when the infected system records a vote for X or no vote instead. There is no possible way to encrypt user input, an infected system can see when a voter Hits 'X' and then uses their credentials to vote for 'Y'
+
+If the signal being sent is encrypted, the UI would not know whether it was "X" or "Y," it would just see 57834CF745DD2305887A6B678A.... etc. and it wouldn't know what to do with that.  If the voting was done on a physical device which did the encryption before being plugged into a computer, the only way any malware could decode it is by being on the actual device (impossible if it's physically encrypted), or knowing the encryption method and all of the conditional variables that are used for it--getting this information for any one vote would take a long, long time depending on the encryption method, and there would be no easy way of doing it faster for multiple devices. 
+
+&amp;gt;it will be very easy for an attacker spoof a replacement device
+
+Yes, but they can use personal information to affect voter registration as it is now.  It would not be inherently less secure.
+
+</text>
+    </comment>
+  <comment id="27500363956.0" user="insaneHoshi" delta="False">
+    <text>&amp;gt; If the signal being sent is encrypted
+
+If a system is compromised, a malicious system can look at the signal before its encrypted, simple as that.
+
+&amp;gt;Yes, but they can use personal information to affect voter registration as it is now. It would not be inherently less secure.
+
+And because the current mail or absentee voting is so insecure, there is a reason why there is a limit in most jurisdictions on how many mail ballots are allowed.</text>
+    </comment>
+  <comment id="27500384600.0" user="spappletrap" delta="False">
+    <text>But if the "system" sending the signal is a physical device that you attach to a computer rather than a program, it cannot be compromised by software.  It is encrypted before it touches the computer.</text>
+    </comment>
+  <comment id="27500394432.0" user="insaneHoshi" delta="False">
+    <text>Tell me, how can this encrypt a keyboard stroke?</text>
+    </comment>
+  <comment id="27500402059.0" user="spappletrap" delta="False">
+    <text>It doesn't use keyboard strokes.  It's a hypothetical physical ballot that sends a signal based on a physical change like a button or switch.  You plug it in via USB and upload an encrypted vote file to your PC, and that physically encrypted file is not decrypted until it reaches the network of servers.</text>
+    </comment>
+  </thread>

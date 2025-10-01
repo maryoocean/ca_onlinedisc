@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<thread>
+  <submission id="96123581.0" index="2" link="https://www.reddit.com//r/changemyview/comments/1l89fh/i_believe_that_compiled_binary_programs_should/">
+    <title>I believe that compiled binary programs should not be protected by copyright law. CMV</title>
+    <original_poster>binlargin</original_poster>
+    <original_post>The default stance is that published works are in the public domain, but copyright exists to enrich the public domain via an agreement between society and creators of the useful arts. Authors receive a temporary monopoly over their creation while society is enriched by a greater number of high quality works entering the public domain once copyright has expired.
+
+When you write computer software you generally write it in an English-like language and this is compiled to a machine-readable "binary" designed to run on today's computer hardware and software. In closed source software only the binary is released, yet these are protected by copyright law because they are a derived work of the source code. 
+
+Due to the fast pace of technological change today's software will be of extremely limited use when its copyright protection has expired. Binaries will be far less useful than the unpublished source code and in my opinion, their protection violates the spirit of copyright, sets a bad example and robs the public domain giving future generations a bum deal.
+
+My controversial view:
+
+Copyright law should specifically exclude protection for "obfuscated works" and that this should apply to binaries and other said works unless obfuscation is the subject of the work itself (such as a book of puzzles). Computer software should only be protected if the source code is shared either as part of the publication or with a copyright registration authority. I believe it's reasonable for a fee to be charged for keeping the code in escrow until the copyright expires.
+
+Change my view Reddit</original_post>
+    </submission>
+  <comment id="26841481287.0" user="pixlepix" delta="False">
+    <text>Keep in mind, it's trivial to decompile a binary in most/all languages.</text>
+    </comment>
+  <comment id="26841496553.0" user="the_snooze" delta="False">
+    <text>Trivial to feed it through a decompiler, yes, but not so trivial to actually make sense of what's going on when you don't have comments or human-friendly identifiers in that lovely machine-optimized code.</text>
+    </comment>
+  <comment id="26841497481.0" user="binlargin" delta="False">
+    <text>It's still obfuscated though, you lose the comments and in most cases the names of symbols including variable and function names so you end up with code like `v18.m1(p1, p2)` rather than `person.message(subject, text)`. There are some exceptions (i.e. Java) to this but there are obfuscators that "fix" this. 
+
+Obfuscation is the thing I want to fight, if machine code was readable then I'd have no problem with binaries being protected.</text>
+    </comment>
+  </thread>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<thread>
+  <submission id="87228342.0" index="1" link="https://www.reddit.com//r/changemyview/comments/1fxlti/true_privacy_has_always_been_imagined_our_only/">
+    <title>True privacy has always been imagined. Our only concern should be right to due process; everyting else is a distraction. CMV</title>
+    <original_poster>PomerGyle</original_poster>
+    <original_post>Most of us aren't as sneaky as we think. So, our concept of "privacy" has always been more of a feigned ignorance by our peers, dependents, and authority figures. Restated, it is more likely than not, that in the chaos of our lives, we've let slip each of our dirty little secrets at one point or another. Therefore, perceived violations of privacy are a violation of our imagination.
+
+The judiciary has been tasked with declaring what facts can be brought in support of our guilt or innocence. So, our primary concern should not be keeping secrets but rather, ensuring our right to a fair trial. Outrage over privacy violations feels good but it serves nothing.
+
+Please change my view.</original_post>
+    </submission>
+  <comment id="26750913467.0" user="carasci" delta="False">
+    <text>The law of privacy in the U.S. has always been about due process rather than privacy.  The thing I think you're not considering is that "due process" actually extends far outside the courtroom: it extends to police arrest procedures (which is why they normally can't just shoot you if you run, or baton you in the head if you resist, or arrest people for no reason at all), to search warrants, all over the place.  Government invasions of privacy, thus, are a problem not necessarily for privacy reasons but rather because they inherently represent violations of the current doctrine of due process.
+
+Ordinarily, we're willing to tolerate basically any privacy violation so long as the government gets a warrant.  The operative word in "warrantless wiretapping" isn't "wiretapping".  The problem with all the recent issues (warrantless wiretapping, Verizon, PRISM) is not what they do or the information they collect, but the fact that they do so indiscriminately and *without* due process.
+
+Thus, you're half right.  You're right that the real concern should be due process, but you're missing that in these cases our problems with "privacy" and "due process" are really one and the same.</text>
+    </comment>
+  <comment id="26750958620.0" user="PomerGyle" delta="False">
+    <text>I hear what you're saying. I'd tried to consider this in constructing my post. Let me ask you this. If any information gathered from warrantless wiretapping were inadmissible would your concerns remain?</text>
+    </comment>
+  <comment id="26750979253.0" user="carasci" delta="True">
+    <text>If the information were inadmissable, what would the point be in collecting it?  Clearly it's going to be used one way or another, the question is simply "how?"  Especially if the actual information collection is secret, what's to stop them from using that information extrajudicially, or to guide the search for further information?  In the courts, the doctrine of the "fruit of the poisoned tree" is used to stop this, but how can that be invoked if you can't prove what information was used or collected?  It's much like previous trials on warrantless surveillance, where the government avoided responsibility for illegal spying on U.S. citizens by basically saying "well, you can't prove it because we refuse to admit it."
+
+There are a vast number of uses for information beyond simple trial evidence.  People hide many things that are not legally incriminating but can still be life- or reputation-ending, and a legal prohibition isn't going to stop the use of those for leverage.  As one person pointed out in another thread, in countries where similar surveillance has become the norm it's common for people to be blackmailed with such information by various government agencies, something that certainly circumvents any prohibition on admissibility.
+
+Finally, collecting the information at all is an inherent hazard.  Much of the information is personal and identifying, and depending on the general nature it may include things like credit card numbers or similar information.  In short, it's a hacker's goldmine.  Are you going to argue that the NSA databases are sufficiently secure?  I wouldn't.  There's fairly decent cause to believe that they've been breached at least a couple times domestically, and lord knows what would happen if government-funded hackers from, say, China got ahold of that kind of information.  Even if you genuinely, 100% believe your government would never *ever ever ever ever* do something like that (personally a pretty bad bet to begin with), would you trust a foreign government which was pissed at the U.S. the same way?  Would you really want a hostile party having non-incriminating but sensitive information on basically every single person in your country?
+
+In the end, the only real way to avoid the misuse of such information is to make sure it's never collected in the first place except in individual cases according to due process.</text>
+    </comment>
+  </thread>

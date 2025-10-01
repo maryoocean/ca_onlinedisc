@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<thread>
+  <submission id="96123581.0" index="3" link="https://www.reddit.com//r/changemyview/comments/1l89fh/i_believe_that_compiled_binary_programs_should/">
+    <title>I believe that compiled binary programs should not be protected by copyright law. CMV</title>
+    <original_poster>binlargin</original_poster>
+    <original_post>The default stance is that published works are in the public domain, but copyright exists to enrich the public domain via an agreement between society and creators of the useful arts. Authors receive a temporary monopoly over their creation while society is enriched by a greater number of high quality works entering the public domain once copyright has expired.
+
+When you write computer software you generally write it in an English-like language and this is compiled to a machine-readable "binary" designed to run on today's computer hardware and software. In closed source software only the binary is released, yet these are protected by copyright law because they are a derived work of the source code. 
+
+Due to the fast pace of technological change today's software will be of extremely limited use when its copyright protection has expired. Binaries will be far less useful than the unpublished source code and in my opinion, their protection violates the spirit of copyright, sets a bad example and robs the public domain giving future generations a bum deal.
+
+My controversial view:
+
+Copyright law should specifically exclude protection for "obfuscated works" and that this should apply to binaries and other said works unless obfuscation is the subject of the work itself (such as a book of puzzles). Computer software should only be protected if the source code is shared either as part of the publication or with a copyright registration authority. I believe it's reasonable for a fee to be charged for keeping the code in escrow until the copyright expires.
+
+Change my view Reddit</original_post>
+    </submission>
+  <comment id="26841559585.0" user="Aoreias" delta="False">
+    <text>Copyright doesn't just serve the purpose of enriching the public domain, but also for the promoting of the useful arts.
+
+There's no reason to think that MS or Apple would develop their respective OSs without valid copyright protection.
+
+You talk about escrow, but there's no way to guarantee the security of the code while it's in private hands. Additionally, what version of the code do you protect? You'd have to ship out a new CD for every patch. Escrow works for physical objects where loss of the escrowed funds/objects can be insured by the agency holding the objects, but what do you do when loss of the source code could be in the billions of dollars?</text>
+    </comment>
+  <comment id="26841581046.0" user="binlargin" delta="False">
+    <text>The useful arts are the public domain!
+
+&amp;gt; There's no reason to think that MS or Apple would develop their respective OSs without valid copyright protection.
+
+Yes so they'd have to put their code into escrow
+
+&amp;gt; You talk about escrow, but there's no way to guarantee the security of the code while it's in private hands
+
+We still have copyright protection, the Windows 2000 and NT4 source code was leaked to the general public in the past and it didn't cost Microsoft a penny, let alone billions. Nobody could use it to create a competing product anyway. Besides, military strength encryption could limit access to one or two people with the keys being stored in a real safe.
+
+&amp;gt; Additionally, what version of the code do you protect? You'd have to ship out a new CD for every patch.
+
+This is a reasonable objection I guess, but still an implementation detail that could be worked out. For example the registrations office could allow registration initially but allow 18 months for the code to be sent in, allowing companies to send in their code annually in one go rather than every few days.</text>
+    </comment>
+  <comment id="26841613000.0" user="Aoreias" delta="False">
+    <text>&amp;gt; We still have copyright protection, the Windows 2000 and NT4 source code was leaked to the general public in the past and it didn't cost Microsoft a penny,
+
+Only a relatively small part of the 2k code was leaked. The HL2 code leak by comparison had a substantial effect on the release of HL2. It's presumptuous to say that no future source code leak won't have a financial impact too.
+
+&amp;gt; Besides, military strength encryption could limit access to one or two people with the keys being stored in a real safe.
+
+If the encryption keys get lost or destroyed, you've just negated the purpose of the whole system. Having a single repository for every bit of computer code ever written would have huge storage requirements and be a huge security target. Additionally, there's the problem of validating whether the code submitted to the Copyright Office is the same code that was used for the published software. You'd have to recreate the compile environment for every bit of published code. The technical work involved here is staggering.
+
+The question is whether society would get more use out of holding source code in ecsrow than harm to companies from possible source code leaks, and the cost that would have to go into developing this copyright system.
+
+Given how generally useless code (both compiled and source) written 60 years ago is today, there's no reason to think that code written today will still be useful 60+ years from now. The possible harm that companies can have in the meanwhile, as well as costs to implement this system would seem to outweigh that.</text>
+    </comment>
+  <comment id="26841633547.0" user="binlargin" delta="False">
+    <text>&amp;gt; If the encryption keys get lost or destroyed, you've just negated the purpose of the whole system.
+
+You could say the same thing about the British Museum being struck by a meteor, it would be a tremendous waste. I still think we should still strive to preserve works for future generations though.
+
+&amp;gt; Having a single repository for every bit of computer code ever written would have huge storage requirements and be a huge security target
+
+Only for companies who wanted to use the escrow system or want protection under copyright law. That's mostly operating systems, office, enterprise software and games. Bespoke software used internally in organizations would never be distributed so wouldn't need to be registered.
+
+&amp;gt; Additionally, there's the problem of validating whether the code submitted to the Copyright Office is the same code that was used for the published software. You'd have to recreate the compile environment for every bit of published code. The technical work involved here is staggering.
+
+That may have been a problem in the past but virtual machines are pretty commonplace nowadays, no serious software company would have problems installing their build environment on a VM or even having a script that compares the binaries after a build. A copyright office with explicit exclusions for it written into copyright law wouldn't need to worry about licensing the toolchain either, like how the British Library or Library of Congress don't need permission to scan books.
+
+&amp;gt; The question is whether society would get more use out of holding source code in ecsrow than harm to companies from possible source code leaks, and the cost that would have to go into developing this copyright system.
+
+Considering the historical importance of the information revolution and that the source to most of our software has been lost for good, I think it's a project that's more important than, say, three or four expensive bombs. I can't see it having a chilling effect on the development of useful software either, software houses supply the software that the market demands. So I still think it's worth it.
+
+&amp;gt; Given how generally useless code (both compiled and source) written 60 years ago is today, there's no reason to think that code written today will still be useful 60+ years from now.
+
+You're right, one of my more extreme positions is that copyright protection for binaries should not exist *and* that copyright for software in general should be between 10 and 15 years.</text>
+    </comment>
+  <comment id="26841648992.0" user="Aoreias" delta="False">
+    <text>&amp;gt; That may have been a problem in the past but virtual machines are pretty commonplace nowadays, no serious software company would have problems installing their build environment on a VM or even having a script that compares the binaries after a build. A copyright office with explicit exclusions for it written into copyright law wouldn't need to worry about licensing the toolchain either, like how the British Library or Library of Congress don't need permission to scan books.
+
+This is additional work that everybody who publishes any code for sale would have to do though, of nebulous benefit. Furthermore, how do you unify this scheme across nations? Companies will just  move their compile farms overseas. Companies in other nations won't trust the US government to store their code. Requiring other countries to send copies of their source code before selling products in the US would be (rightly) seen as protectionism.
+
+Right now, the copyright office is minimally involved in the maintenance of copyrighted works. You don't even have to register your software to have copyright protection. You're proposing a program that's overly intrusive, overly expensive, and impractical on a grand scale.
+
+&amp;gt; one of my more extreme positions is that copyright protection for binaries
+
+I'm not going to try to argue you against this, I'm just going to suggest that since you know that this is your core belief, think about how this is affecting your bias toward your proposal. You're proposing this idea because it's closer to what you actually want and think is a good idea, and perhaps looking at this specific idea with rose tented glasses.</text>
+    </comment>
+  <comment id="26841677270.0" user="binlargin" delta="False">
+    <text>&amp;gt; Furthermore, how do you unify this scheme across nations?
+
+Copyright offices of all nations which have exclusions for binaries publish encryption keys and allow users to upload an encrypted image. Software houses encrypt and upload prior to publishing or within some fixed time period.
+
+&amp;gt; Companies will just move their compile farms overseas.
+
+They either publish source or it's not protected, it doesn't matter where they compiled it.
+
+&amp;gt; Companies in other nations won't trust the US government to store their code. Requiring other countries to send copies of their source code before selling products in the US would be (rightly) seen as protectionism.
+
+The playing field would be level across all participating countries, so I don't see how it restricts trade. I don't see what the big deal is with seeing the code either, it's essentially software documentation and is protected by copyright law anyway. People shouldn't really be running programs without it.
+
+&amp;gt; You're proposing a program that's overly intrusive, overly expensive, and impractical on a grand scale.
+
+I agree it may be costly, but I wouldn't say it's intrusive compared to the system that already exists. Currently it's illegal for a person to share a binary with their neighbour without explicit permission from the copyright holder. There should be a cost associated with such powers, they shouldn't be granted for free for something that is worthless to the public domain.
+
+&amp;gt; I'm not going to try to argue you against this, I'm just going to suggest that since you know that this is your core belief, think about how this is affecting your bias toward your proposal.
+
+I agree that I am biased, but I believe that it's fair to be biased in this way, my more fundamental belief that the source code for all software should be available to study is also justified. 
+
+The escrow system is a bit of a fudge, it would most likely be a nightmare to set up but I still think it's possible. In an ideal world all software would be distributed as source code, you wouldn't run binaries from anyone, ever, and companies wouldn't be so precious about their poor quality code.
+
+You've not swayed me but you have made some good points and given me a bit to think about. Thanks for the debate!</text>
+    </comment>
+  <comment id="26841770360.0" user="Aoreias" delta="False">
+    <text>I'm always up for a good argument about why some idea is infeasible.  
+
+&amp;gt; they shouldn't be granted for free for something that is worthless to the public domain.
+
+The compiled software obviously isn't useless, otherwise your neighbor wouldn't want it. If a company couldn't influence some control over the binary, how do you propose they make money instead? Do you think nearly as many people would code if they couldn't profit from it? </text>
+    </comment>
+  <comment id="26842113184.0" user="binlargin" delta="False">
+    <text>The software is useful today, it will be useless by the time copyright expires though.
+
+&amp;gt; If a company couldn't influence some control over the binary, how do you propose they make money instead?
+
+In this case they could sell the source code. Doesn't make much difference to them.
+
+&amp;gt; Do you think nearly as many people would code if they couldn't profit from it? 
+
+Why couldn't they profit from it? They can sell source.</text>
+    </comment>
+  </thread>

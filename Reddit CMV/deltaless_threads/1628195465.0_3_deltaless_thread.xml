@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<thread>
+  <submission id="1628195465.0" index="3" link="https://www.reddit.com//r/changemyview/comments/qxdvnt/cmv_copyright_contradicts_with_decentralisation/">
+    <title>Cmv: Copyright contradicts with decentralisation</title>
+    <original_poster>planetoryd</original_poster>
+    <original_post>By copyright, I mean the copyright applied to information which is easily copied and spread. It can't be held secret as long as one copy has been delivered. Software doesn't really satisfy this criteria since the information, the binaries can be obfuscated  without hindering its functionality, but opensource works nonetheless. 
+
+It is not authorship either, here. Instead I believe copyright encourages plagiarism and copycats get more attention.
+
+The present internet is underdeveloped, so that it is possible to set up paywalls. As the internet progresses, it will be more decentralised, making it impossible to enforce copyright laws.
+
+The problem is how the industry should be financed, in the future where it is not possible or acceptable to do advertising, or it doesn't need to.
+
+Edit
+
+**In a hypothetical future internet which is more decentralized, thanks to the tech advancements, copyright will become impractical to enforce, so that the only way to finance creators is donation, or something else. At that point purchasing is effectively donation for how easy it will be to get a copy.**</original_post>
+    </submission>
+  <comment id="38290555243.0" user="dublea" delta="False">
+    <text>What does decentralization have to do with anything here?  Why is that the aspect you're focusing on?  I'm honestly not really sure why it's important to your view as you've not really articulated anything about.  What does it have to do with the price of tea in China?</text>
+    </comment>
+  <comment id="38290786532.0" user="planetoryd" delta="False">
+    <text>Copyright is a law and law is carried out by governments or other centralized authorities. A decentralized network, by definition, has no authority that is powerful enough. It is important, because that changes some very fundamental premises of the topic.</text>
+    </comment>
+  <comment id="38290962224.0" user="dublea" delta="False">
+    <text>Why not state what the post is about more clearly?  When you mention decentralization are you referring to block chains or what exactly?  Can you link to an article or three that might highlight the view you're trying to present?</text>
+    </comment>
+  <comment id="38291054780.0" user="planetoryd" delta="False">
+    <text>Decentralization is collection of technologies, not one of them specifically. IMO blockchain itself alone can do little things. Generally dweb include torrent, blockchain, E2E encryption, federated networks like mastodon, and even RSS</text>
+    </comment>
+  </thread>

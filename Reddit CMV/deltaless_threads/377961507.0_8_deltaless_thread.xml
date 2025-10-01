@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<thread>
+  <submission id="377961507.0" index="8" link="https://www.reddit.com//r/changemyview/comments/6910yr/cmv_a_computer_could_do_90_of_a_doctors_job/">
+    <title>CMV: A computer could do 90% of a doctor's job (general practitioner in particular).</title>
+    <original_poster>OnlyOnceThreetimes</original_poster>
+    <original_post>I have numerous medical conditions throughout my life and I have many friends who are doctors.  All the doctors I have visited have been terrible at their jobs.  Whether it is complete disinterest, misdiagnosis, unknowledgeable of symptoms indicating problems, misreading x-rays/cat scans, etc.  Any condition that has been solved has been me fighting the medical system with information i've researched on the internet.
+
+If we started a database that tracked symptom of patients, eventually we'd see what percentage of particular symptoms indicate a particular disease/condition/disorder/etc.
+
+I understand people do their own research on Web MD and often go to a doctor and a doctor laughs and tells them what they read is incorrect, but this is because WebMD is not considering everything else about the patient.  
+
+For instance low blood pressure in a 24 year old athlete is not an indicator of a problem as it would be for say an old sedentary and obese 65 year old male. 
+
+Doctors should be detectives, puzzle solvers or scientists, but often I find they are quick to get you in and out of your office for that paycheck.  They see too many patience to devote enough time to solve your obscure case.  And let's say it is indeed an obscure case.  Imagine only 100 people have had your condition, no doctor could ever be expected to piece together the puzzle.  But if those 100 people were logged,  the computer could compare against that.
+
+At best we could train individuals to be intermediaries between the patient and the computer system, so training for general practitioners could be lowered considerably.   And in doing so, their pay would be much lower which would allow money to be used for other things.  more testing labs, more MRI machines, etc.
+
+Imagine going into the automated medical facility and getting your blood work and cat-scan done all in one place.  It would seem to me that your chance of a correct diagnosis would be MUCH higher than dealing with a human.  Most of medical school is just learning IMMENSE text book knowledge and analysis skills, both of which are best handled by a computer.
+
+_____
+
+&amp;gt; *This is a footnote from the CMV moderators. We'd like to remind you of a couple of things. Firstly, please* ***[read through our rules](http://www.reddit.com/r/changemyview/wiki/rules)***. *If you see a comment that has broken one, it is more effective to report it than downvote it. Speaking of which,* ***[downvotes don't change views](http://www.reddit.com/r/changemyview/wiki/guidelines#wiki_upvoting.2Fdownvoting)****! Any questions or concerns? Feel free to* ***[message us](http://www.reddit.com/message/compose?to=/r/changemyview)***. *Happy CMVing!*</original_post>
+    </submission>
+  <comment id="29331951395.0" user="OnlyOnceThreetimes" delta="False">
+    <text>Thanks all for the intellectual debate.  It's my first time on CMV and I am surprised at the maturity and lack of emotion that was brought to the debate.   Very surprising by Reddit standards.
+
+I should have worded my title as "Given the technology that exists today, I believe a computer could be built that could do 90% of the job of a general practitioner."
+
+This way the argument could have focused on what about a doctors job is NOT capable of being done by tech today (which is what I wanted).  
+
+However, it ended up being more about scientifically proving that no such tech has been implemented today, which to me is obvious and no debate need to be had. 
+
+The infrastructure would be incredibly complex to get such a system up an running and so would the cost.  I acknowledge that no system could be feasible in the near future, but perhaps in 30-50 years.
+
+A lot of time invested in answering the comments, so I will bow out now.  No single individual has changed my view, but I acknowledge partly because I may have asked the problem incorrectly.  I learned a few things nonetheless.
+
+Thanks!</text>
+    </comment>
+  <comment id="29393556190.0" user="saratc44" delta="False">
+    <text>Hi OP, 
+
+Your point is very valid and I thought you probably deserve an answer from the horse's mouth, so to speak. I am a cardiologist by trade.
+
+Whilst you are correct in suggesting that with appropriate technical advances, computers would be far superior to a human in terms of giving a likely diagnosis based on the input of a constellation of symptoms. For example chest pain. It's easy and cheap for a computer to state for example your risk factors are 1. Smoking 2. High cholesterol. 3. Diabetes. Your chance of this chest pain being a heart attack is 15%, for example. 
+
+We as clinicians use this constantly in our day to day practice. Eg framingham risk score, CHADsVasc score, HEART score etc and we quote the numbers to our patients. But, there's an old saying in medicine that the knowledge and disease is the easy part. It's patients and their families that are difficult. 
+
+90% of what my job entails is not making the diagnosis, but rather interpreting a very complex patient and family and framing their disease and it's treatment into their life and their goals and values.
+
+Ill not bother explaining the importance of a physical person in terms of seeing a person that is unconscious or having life threatening symptoms and is hemodynamically unstable. Let's stick with your average clinic visit. 
+
+1. Symptoms - our job as doctors is to interpret what humans feel and say and translate this into a standardised medical framework. Patients rarely know what they feel or how they are feeling it and everyone feels things differently. No patient ever comes up to me and says they have new York heart association class IV dyspnea. Patients very rarely are able to accurately qualify the exact nature of their symptoms and often don't have the medical vocabulary to explain what they are feeling. Simply putting "chest pain" into the computer will give you 100+ different possibilities of varying likelihoods and will end up with a fairly useless report. It's up to us to work out what they mean by chest pain and characterising it to the point of allowing us to use it to make clinical decisions.
+
+2. Signs - no computer out there is capable of picking up physical signs of disease like a a human can. Eg one that can accurately assess a Jugular venous pressure or palpate an abdomen.
+
+3. Investigation - no test is 100% accurate. Many tests have risk. Computers deal in black and white. Not shades of grey. Our investigations use population statistics to determine a normal range. Anything 3 STD deviations either side of that for example are considered abnormal. If a test was very slightly positive, we often don't act on it, despite the test technically being positive because follow up actions have risk. If a computer told you to have a lumbar puncture because you had a headache and a CRP of 6 and not 5 (upper limit of normal range) and it thought you had meningitis, it would be completely inappropriate and you would be very entitled to sue the computer programs designer if you had a complication from that.
+
+4. Management - aside from the obvious fact that robotics is still in its infancy, physical intervention is procedures, surgeries etc are all still mostly human with computer assistance. In no way are computers able to do the things you see in sci fi movies. Explain management in simple language to patients from a wide variety of ethnic, cultural and educational backgrounds is a very difficult task. It's easy for me to do an echo and comment about your diastolic E-A ratio but that means nothing to the patient. What the patient wants to know is "will I be able to make it to my daughter's wedding in 2 weeks" or "can I continue my work at a plumber without disabling symptoms" 
+
+There's many more aspects of our job that I can elaborate on but the essential summary is that 90% of patients present with about 1 of 5 diagnoses in any given field. Yes a computer could do it. Yes a skilled nurse could do it. Hell a trained monkey could  do it if making a simple diagnosis was the hard part of medicine. The reason I trained for 17 years is because of everything else. Understanding the patients complaints and relating these to medical symptoms. Picking up clinical signs. Understanding risk and the subtleties in interpreting and requesting investigations. Learning the physical procedures and practicing them thousands of times over to avoid error. Whilst our nursing colleagues are excellent at their jobs, they are not trained to appreciate the subtleties of it and how everything fits into the overall care of the human being sitting in front of you. 
+
+Hope that helps.</text>
+    </comment>
+  <comment id="29393646009.0" user="OnlyOnceThreetimes" delta="False">
+    <text>Wow excellent explanation.  I thinm you have convinced me.  I posted this a LONG time ago, but it really has changed my view.  Dunno how to award you a delta?
+
+Thanks!</text>
+    </comment>
+  </thread>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<thread>
+  <submission id="185873319.0" index="6" link="https://www.reddit.com//r/changemyview/comments/32nwrr/cmv_google_chrome_is_better_than_mozilla_firefox/">
+    <title>CMV: Google Chrome is better than Mozilla Firefox</title>
+    <original_poster>zer0t3ch</original_poster>
+    <original_post>First of all, this is an all-encompassing opinion, not a statement of fact. I am in no way saying that Chrome is technologically superior or anything of that nature, it's just.... well..... *better*.
+
+# My reasons
+
+* **Chrome is more secure**
+ * as far as I can tell, this is basically undeniable fact. Tab sandboxing being the most obvious feature, but there also hasn't been an vital exploit (that I'm aware of) in years
+* **Better technology support**
+ * I haven't checked in a while, but Chrome always seems the fastest to adopt new technologies, which is great as both a consumer and a developer
+* **Ease-of-use**
+ * As an end-user, this one is key. I install Chrome, I'm good to go. Get an Android phone with Chrome; Log in on both, now everything is synced. Want to see currently opened tabs? Great. It's just so simple and streamlined. (Coincidentally I'm a Linux user who hates Apple for the exact reason of making things "just work")
+* **Chrome Apps/Extensions**
+ * From what I can tell, Chrome has a lot more people developing for it's web store, while Firefox's add-ons site is dated and minimally supported. Also, from what I understand, Firefox completely lacks any "Apps" and while I understand why not everyone can agree that this is an inherent con, I regularly use apps such as SSH, VNC, Google Play Music (for the mini player), and Hangouts.
+* **Development**
+ * I know FF has a lot of developer tools, as does Chrome. I honestly haven't used FF for development in years, so I have no basis as to which is better.
+
+---
+
+&amp;gt; *Hello, users of CMV! This is a footnote from your moderators. We'd just like to remind you of a couple of things. Firstly, please remember to* ***[read through our rules](http://www.reddit.com/r/changemyview/wiki/rules)***. *If you see a comment that has broken one, it is more effective to report it than downvote it. Speaking of which,* ***[downvotes don't change views](http://www.reddit.com/r/changemyview/wiki/guidelines#wiki_upvoting.2Fdownvoting)****! If you are thinking about submitting a CMV yourself, please have a look through our* ***[popular topics wiki](http://www.reddit.com/r/changemyview/wiki/populartopics)*** *first. Any questions or concerns? Feel free to* ***[message us](http://www.reddit.com/message/compose?to=/r/changemyview)***. *Happy CMVing!*</original_post>
+    </submission>
+  <comment id="27715490634.0" user="Sweden46" delta="False">
+    <text>&amp;gt;Chrome is more secure
+as far as I can tell, this is basically undeniable fact. Tab sandboxing being the most obvious feature, but there also hasn't been an vital exploit (that I'm aware of) in years
+
+I know nothing about that
+
+&amp;gt;Better technology I haven't checked in a while, but Chrome always seems the fastest to adopt new technologies, which is great as both a consumer and a developer
+
+
+The only one I've noticed is youtube 60fps, but I think that's because it includes some kind of DRM and mozilla is very against DRM on the net so they're doing some kind of special-opt-in-sandbox thingy for it? Also youtube is owned by the same company as chrome so yeah
+
+&amp;gt;Ease-of-As an end-user, this one is key. I install Chrome, I'm good to go. Get an Android phone with Chrome; Log in on both, now everything is synced. Want to see currently opened tabs? Great. It's just so simple and streamlined. (Coincidentally I'm a Linux user who hates Apple for the exact reason of making things "just work")
+
+I don't think you can see currently open tabs but Firefox does have sync. 
+
+&amp;gt;Chrome Apps/From what I can tell, Chrome has a lot more people developing for it's web store, while Firefox's add-ons site is dated and minimally supported. Also, from what I understand, Firefox completely lacks any "Apps" and while I understand why not everyone can agree that this is an inherent con, I regularly use apps such as SSH, VNC, Google Play Music (for the mini player), and Hangouts.
+
+That seems weird, I had the exact opposite experience. I found a lot of cool extensions when I switched to Firefox(note, I don't know if they are on Chrome as well) And I don't know what you're talking about with "while Firefox's add-ons site is dated and minimally supported"
+
+&amp;gt;I know FF has a lot of developer tools, as does Chrome. I honestly haven't used FF for development in years, so I have no basis as to which is better.
+
+No clue. 
+
+
+And as others have said, Google Chrome is both proprietary and owned by Google, who makes their money by harvesting data about you and showing you ads. I would not trust Google with my data.
+
+Finally, since Firefox is FLOSS you could technically make it to whatever you want it to be. Won't affect most people but it's still a plus. Also I assume being open source makes it easier to develop addons for it.
+
+All that said, I really like the fact that when a tab crashes in Chrome it doesn't freeze the whole browser. Thankfully Mozilla is working on it so it should be working Soon™</text>
+    </comment>
+  <comment id="27715897967.0" user="zer0t3ch" delta="False">
+    <text>&amp;gt; Better technology 
+
+In this, I was referring to things more like modern HTTP and CSS standards (HTML5 &amp;amp; CSS3)
+
+&amp;gt; Outdated add-ons site
+
+I am primarily referring to the design. It has been essentially the same for years and seems almost neglected.
+</text>
+    </comment>
+  <comment id="27720752205.0" user="justregisteredtosay" delta="False">
+    <text>You probably weren't actually talking about it, but I feel I should mention this, on top of what I mentioned in my other comment else where.
+
+HTTP/2 Chrome again had some advantage in implementing quicker than others. HTTP/2 is largely based on SPDY, which was designed primarily by Google.
+
+To me at least, Google lately seems much like the Microsoft of old. But instead of designing new proprietary features that only work in their browser, Google just designs them, implements them, and then submits them as a standard. And most other browser makers don't start working on them till they are standardized.</text>
+    </comment>
+  <comment id="27716504389.0" user="Bodertz" delta="False">
+    <text>You can see open tabs on other devices, technically. Look in about:about. One of them does it.</text>
+    </comment>
+  </thread>

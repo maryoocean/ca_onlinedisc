@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<thread>
+  <submission id="377961507.0" index="1" link="https://www.reddit.com//r/changemyview/comments/6910yr/cmv_a_computer_could_do_90_of_a_doctors_job/">
+    <title>CMV: A computer could do 90% of a doctor's job (general practitioner in particular).</title>
+    <original_poster>OnlyOnceThreetimes</original_poster>
+    <original_post>I have numerous medical conditions throughout my life and I have many friends who are doctors.  All the doctors I have visited have been terrible at their jobs.  Whether it is complete disinterest, misdiagnosis, unknowledgeable of symptoms indicating problems, misreading x-rays/cat scans, etc.  Any condition that has been solved has been me fighting the medical system with information i've researched on the internet.
+
+If we started a database that tracked symptom of patients, eventually we'd see what percentage of particular symptoms indicate a particular disease/condition/disorder/etc.
+
+I understand people do their own research on Web MD and often go to a doctor and a doctor laughs and tells them what they read is incorrect, but this is because WebMD is not considering everything else about the patient.  
+
+For instance low blood pressure in a 24 year old athlete is not an indicator of a problem as it would be for say an old sedentary and obese 65 year old male. 
+
+Doctors should be detectives, puzzle solvers or scientists, but often I find they are quick to get you in and out of your office for that paycheck.  They see too many patience to devote enough time to solve your obscure case.  And let's say it is indeed an obscure case.  Imagine only 100 people have had your condition, no doctor could ever be expected to piece together the puzzle.  But if those 100 people were logged,  the computer could compare against that.
+
+At best we could train individuals to be intermediaries between the patient and the computer system, so training for general practitioners could be lowered considerably.   And in doing so, their pay would be much lower which would allow money to be used for other things.  more testing labs, more MRI machines, etc.
+
+Imagine going into the automated medical facility and getting your blood work and cat-scan done all in one place.  It would seem to me that your chance of a correct diagnosis would be MUCH higher than dealing with a human.  Most of medical school is just learning IMMENSE text book knowledge and analysis skills, both of which are best handled by a computer.
+
+_____
+
+&amp;gt; *This is a footnote from the CMV moderators. We'd like to remind you of a couple of things. Firstly, please* ***[read through our rules](http://www.reddit.com/r/changemyview/wiki/rules)***. *If you see a comment that has broken one, it is more effective to report it than downvote it. Speaking of which,* ***[downvotes don't change views](http://www.reddit.com/r/changemyview/wiki/guidelines#wiki_upvoting.2Fdownvoting)****! Any questions or concerns? Feel free to* ***[message us](http://www.reddit.com/message/compose?to=/r/changemyview)***. *Happy CMVing!*</original_post>
+    </submission>
+  <comment id="29330853300.0" user="scottevil110" delta="False">
+    <text>1) Doctors don't exist for that 90%.  They exist for the 10% that a computer can NOT do.  Just like pilots.  An airplane can fly itself for 99.5% of the flight.  You're paying them for the part where it can't.
+
+2) Your proposal of some sort of central repository of medical records goes against all kinds of privacy laws.  Would you really want your whole medical history stored on some universally accessible database?  
+
+3) Doctors, taking a first look at a condition you have, are working on probabilities.  Like any diagnostic job, you go with the most likely and obvious cause first.  It's Occam's Razor.  When a roofer comes out to your house, they fix the most likely cause of your problem first.  It might not work every time, but it made the most sense to try first.  Gave the highest probability of success.  
+
+When you walk in with leg pain, 9 times out of 10 you've strained a muscle.  Why would the doctor put you through ultrasounds and blood tests and an MRI to check and see if you're the 1 out of 1000 who happens to have developed blood clots at age 25?</text>
+    </comment>
+  <comment id="29330879007.0" user="OnlyOnceThreetimes" delta="False">
+    <text>1) Well currently they do 90% of the job and 10% of the job is done by computers.  If that were reversed, you could get the amount of training a doctor would need (general practitioner).
+
+2) Your information is stored on universally accessible databases anyways.  And spread out, with differing security systems in doctors' offices, paper files, etc.  and your financial information and social security number, etc. things for identity theft as well.  Storing in a central location would reduce risk, I'd say.
+
+3) I'd argue that a computer could do this better with If, Then, elses statements as well as the benefit of comparing against millions of cases.  For your example of leg pain:
+
+ Leg pain? Yes.  Do you work in an office job?  Yes.  How is your pulse in your leg?  Pule is good.  Swelling in leg? No.  Discoloration in leg?  No.  Trouble moving toes?  No.  Equilibrium off? No.  Hop on one foot?  Easy.  Diagnosis = pinched nerve.  Treatment (get up and walk around for 1 hour every 15 minutes).
+
+If the answers to the above indicate a blood clot.  Stick your leg in an apparatus and it takes an x ray.  Sees the clot and sent immediately to a surgeon.</text>
+    </comment>
+  <comment id="29330890525.0" user="scottevil110" delta="False">
+    <text>&amp;gt; Leg pain? Yes. Do you work in an office job? Yes. How is your pulse in your leg? Pule is good. Swelling in leg? No. Discoloration in leg? No. Trouble moving toes? No. Equilibrium off? No. Hop on one foot? Easy. Diagnosis = pinched nerve. Treatment (get up and walk around for 1 hour every 15 minutes).
+&amp;gt; If the answers to the above indicate a blood clot. Stick your leg in an apparatus and it takes an x ray. Sees the clot and sent immediately to a surgeon.
+
+This part tells me that you underestimate the complexity of medicine.  If it were as simple as a flowchart, then you'd be right, but clearly it isn't.  What you've described here is EXACTLY what happens in pretty much every doctor's visit.  But you're talking about the 1 in 100 times when it WASN'T a pinched nerve, despite the decision tree saying that it probably was.  
+
+Several different underlying conditions can cause the EXACT same symptoms, which is precisely why doctors exist and precisely why the profession can never achieve perfection.  If you come in complaining of indigestion and incontinence, you might have colon cancer.  However, either a doctor or your computer database is going to come back with something like IBS, because that's what it PROBABLY is, and both a doctor's experience or a conditional algorithm is going to tell you that that's what it probably is.</text>
+    </comment>
+  <comment id="29330921075.0" user="OnlyOnceThreetimes" delta="False">
+    <text>Well I'd say that my decision tree was not exhaustive and the 'interface' was not determined.  You're right, it's not a flow chart, it's more complicated, but why could a computer not take it further.  It could say:
+
+"Compared with data collected with 45 million people with the same symptoms we conclude:
+
+85% pinched nerve
+
+Are you satisfied with this diagnosis?  If not, please select for further investigation:
+
+10% Blood clot
+.8% hernia
+.2% Leg will start on fire."
+
+Selecting could further investigate.  you could imagine the same flow for colon cancer.  If you select colon cancer, then a nurse could come in for a further investigation for the human aspect.  If it's suspected.  To the colonoscopy room.</text>
+    </comment>
+  <comment id="29330924729.0" user="scottevil110" delta="False">
+    <text>Yeah, but the decision is yours in that case.  So when the computer comes back and says 99% pinched nerve, 1% blood clot, and you say "Eh, that's not enough of a chance to bother investigating further.  Let's see if it gets better in a couple of days and then re-assess..."
+
+Then you've made exactly the same decision that the doctor would have.  Except now you have basically nothing more to go on.  </text>
+    </comment>
+  <comment id="29330947808.0" user="OnlyOnceThreetimes" delta="False">
+    <text>I would still argue that this would be the same as a for a doctor.  A doctor would go through the same flow chart, and a doctor would likely say:
+
+"Well to be honest, I think this is just a pinched nerve, there is nothing here to suggest there is a blood clot in your leg.  Perhaps a very small chance, I mean, we could order you a cat scan if you want, but I largely think it won't turn anything up."
+
+My point is that a doctor would not arrive at that conclusion better than a computer.  That is an easy case.  What if symptoms were so complicated that he just could not link it to anything?  Where a computer has access to billions of symptoms related to billions of problems.  What if some obscure bundle of symptoms pointed to 67% chance Lyme disease. 
+
+Lyme disease is actually forgone many times by doctors, mainly due to lack of knowledge.  Which couldn't occur in a computer with samples of billions.</text>
+    </comment>
+  <comment id="29331093776.0" user="eliminate1337" delta="False">
+    <text>But in this case, the computer is (or will be) better than the doctor. The computer can compare data across millions of patients, have a database of the rarest of conditions, and constantly stay up to date with the research. It can find patterns and make connections that no human ever could. </text>
+    </comment>
+  <comment id="29331115565.0" user="scottevil110" delta="False">
+    <text>&amp;gt; It can find patterns and make connections that no human ever could.
+
+I would argue that the opposite is also true. Human intuition is something that we simply have not been able to replicate with computers.  Yes, we're getting ever closer, but there's a reason why human input is still required in nearly every field, and it's not just for tradition.  The human ability to reason, using more than just discrete if/then statements, is something that to this point, computers often fail terribly at.  
+
+And on top of that, they are typically unable to DETECT when they have made a ridiculous conclusion, because they lack the insight to know why, even though logic led them to this point, it's clearly wrong.  </text>
+    </comment>
+  <comment id="29331166194.0" user="eliminate1337" delta="False">
+    <text>&amp;gt; Human intuition is something that we simply have not been able to replicate with computers.
+
+That's simply not true. Time and time again, things that used to to be thought to require 'intuition', like playing go or chess, or recognizing images, or creating music, were later revealed to just require better computation. Computers can now do all of those things as well as or better than humans. 
+
+Intuition is just the ability to make decisions with limited information. (If you disagree, I challenge you to come up with a different definition.) Computers can do that just fine. </text>
+    </comment>
+  <comment id="29331841861.0" user="OnlyOnceThreetimes" delta="False">
+    <text>&amp;gt; I would argue that the opposite is also true. Human intuition is something that we simply have not been able to replicate with computers. 
+
+This is actually false (provably). Lookup AlphGo.  The software that beat the world's best 'Go' player.
+
+Go is not like chess.  Chess is a combinatorial problem.  it can be solved because there are a finite number of moves that can be made and the 'best' move can be calculated with almost raw force in reasonable time.
+
+'Go' on the other hand, is FAR more complicated.  A traditional AI cannot solve the 'problem' of go.  
+
+So this program AlphaGo had to learn 'intuition'.  Experience garners 'intuition' and while humans think 'intuition' is just a feeling, it is not.
+
+AlphaGo watched BILLIONS of games of 'Go'.  Overtime it 'learned' what moves it 'thought' were the best due to its experience in the past.  The same as a human would.
+
+So a computer could in turn watch BILLIONS of diagnosis all around the world.  From thousands of doctors.  It could then intuit what symptoms relate to what condition.  This problem is far simpler than that of Go.
+
+Humans ability to reason might be better, but not sure why this is relevant.  When it comes to simple data analysis, a human certainly does not out perform a computer.
+
+</text>
+    </comment>
+  </thread>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<thread>
+  <submission id="468395254.0" index="7" link="https://www.reddit.com//r/changemyview/comments/7qvc3a/cmv_congress_should_change_congressional/">
+    <title>CMV: Congress should change Congressional elections to Mixed Member Proportional to end gerrymandering.</title>
+    <original_poster>huadpe</original_poster>
+    <original_post>Congress has the power to regulate and alter the "times, places and manner of holding elections for Senators and Representatives" under Article I, Section 4 of the Constitution.
+
+Currently, under this power, the Congress [has mandated that all members of the House of Representatives be elected from single-member geographic districts.](https://www.law.cornell.edu/uscode/text/2/2c)
+
+I propose that Congress repeal this provision and replace it with one requiring that members of the House be elected under a mixed member proportional system, with a bare majority of the seats apportioned to a state being divided into geographic districts, and the remainder being used to fill in based on party vote in those seats using the D'Hondt method.
+
+For states with only 1 seat, this would mean no change.
+
+For states with 2 seats, this would mean both districts were "at large."  The party who won the normal "at large" seat would also win the second at large seat if they had 2/3 of the two-party vote in the state, or in the event of a three+ party split, if they had achieved twice as many votes as the next-most-vote-getting party.  Otherwise, the next most successful party would get the second seat.
+
+For states with 3 seats, 2 would be geographic and 1 would be at-large.
+
+For states with 4 seats, 2 would be geographic and 2 would be at-large.  
+
+For states with 5 seats, 3 would be geographic and 2 would be at-large.
+
+And so on.
+
+I don't have a firm threshold for party qualification for at large seats, but I'd be fine with anything from 5-15%.  Members running as independents would be able to run in geographic districts only, and I'd allow that any party winning a geographic district be allowed to get proportional seats regardless of the threshold.
+
+
+
+This would effectively end gerrymandering, while still allowing local representation of regions of states with sufficient population to have 3 or more representatives.  The boundaries of those districts would become far less important, because the at-large seats would ensure that packing and cracking have little if any effect on overall partisan makeup.
+
+This would also not require a constitutional amendment, since it would be able to be enacted under the Article I Section 4 power.
+
+I think that at least one party (probably the Democrats) should run on this platform, and if elected, pass it into law.
+
+*edit* fixed an error when I inserted a paragraph at the wrong spot when composing this.
+
+_____
+
+&amp;gt; *This is a footnote from the CMV moderators. We'd like to remind you of a couple of things. Firstly, please* ***[read through our rules](http://www.reddit.com/r/changemyview/wiki/rules)***. *If you see a comment that has broken one, it is more effective to report it than downvote it. Speaking of which,* ***[downvotes don't change views](http://www.reddit.com/r/changemyview/wiki/guidelines#wiki_upvoting.2Fdownvoting)****! Any questions or concerns? Feel free to* ***[message us](http://www.reddit.com/message/compose?to=/r/changemyview)***. *Happy CMVing!*</original_post>
+    </submission>
+  <comment id="30039851823.0" user="x1uo3yd" delta="False">
+    <text>The main reason (other than tradition/bureaucratic-momentum) America hasn't made a switch to something like this is because we, like the Founding Fathers before us, still like the Greek/Roman *ideals* of voting for great leaders from our own *polis* better than the thought of simply voting for whatever schmuck is in our same party.
+
+While Mixed Member Proportional Voting is good at reducing at-large party-proportional disparities caused by (accidental or engineered) packing or cracking of party votes, it does so at the expense of representatives as local individuals.  Voters are essentially trading away (some) power voting for individuals from their geographic localization, for a hedge vote on the power of parties at-large.  While sound arguments can be made that we are absolutely stuck in an entrenched two-party system, and the at-large MMPV party-power hedge vote is a smarter option in that situation, adopting MMPV still endorses the policy of voting for parties over voting for individuals which is counter to our romantic ideals.
+
+--------------------------------
+
+Additionally, Party-list proportional representation can have its own downsides owing to how exactly the roster is filled.  A deep-pockets unlikable candidate might not be palatable enough to win any local race, but could very well have ways to maneuver onto their party's list and win an at-large seat.  The specifics of the party-list roster-filling method can and will greatly affect how easy/hard that sort of maneuvering would be to accomplish, but again the idea of some undesirable sleaze clinging to duly-elected party coattails and landing a seat in congress is extremely disagreeable to our romantic ideals of representative election.</text>
+    </comment>
+  <comment id="30039866196.0" user="huadpe" delta="False">
+    <text>&amp;gt;adopting MMPV still endorses the policy of voting for parties over voting for individuals which is counter to our romantic ideals.
+
+I agree that there is a romantic ideal this runs counter to - but I think that romantic ideal is wrong.
+
+In particular, parties are an emergent phenomenon in all elective democracies.  Even where initial founding leadership was strongly opposed to parties and factionalism it arises.  George Washington was the overwhelmingly popular leader of the early republic, hated the idea of parties, and was totally incapable of stopping their rise.
+
+Parties are the principal non-governmental organs through which political consensus is produced and boiled down to action and legislation.  Healthy parties are key to a functional democracy.
+
+American parties are not healthy today, and I think a large part of that lack of health stems from the very perverse incentives they face at the ballot box.  With increasing polarization of the electorate, even where swings take place at the margins, the party primary has become the key moment of democratic accountability, as opposed to the general election.  That creates terrible incentives towards radicalism and base-pleasing above all else.
+
+I think MMP would do a lot to fix this by making far fewer individual seats "safe" because there's always room for movement as the vote changes.  This would put parties back into the driver's seat in a more straightforward position of trying to appeal to the broadest possible voting base.</text>
+    </comment>
+  <comment id="30039947259.0" user="x1uo3yd" delta="False">
+    <text>Even if you believe that political parties/factionalism are/is an unavoidable emergent phenomenon of elective politics, that doesn't imply that the optimal solution is to build your electorate consolidating power into parties based on that presupposition. (No more than one would want to pre-build a glut of bureaucracy into their government based on the presupposition of the unavoidable emergent phenomenon of bureaucratic expansion.)
+
+With regards to the issue of gerrymandering, MMPV is a perfectly reasonable solution if one shares your realist *"the party system is inevitable"* view and has no objections with it (though many may find that stance practical but objectionable).  However, in the current age of *Big Data* and open-source code we have [new solutions to gerrymandering](https://www.quantamagazine.org/the-mathematics-behind-gerrymandering-20170404/) currently available that do not require the additional trade of individual representation for party representation.  Therefore, if ending gerrymandering is the only goal, MMVP is not the ideal solution as it goes a step further than simply reigning in party-based packing/cracking and additionally endorses further power consolidation along party lines.</text>
+    </comment>
+  <comment id="30040602855.0" user="huadpe" delta="False">
+    <text>&amp;gt;Even if you believe that political parties/factionalism are/is an unavoidable emergent phenomenon of elective politics, that doesn't imply that the optimal solution is to build your electorate consolidating power into parties based on that presupposition. (No more than one would want to pre-build a glut of bureaucracy into their government based on the presupposition of the unavoidable emergent phenomenon of bureaucratic expansion.)
+
+I would go further and say that functional political parties are a positive good, which the electoral system should seek to foster.
+
+&amp;gt;However, in the current age of Big Data and open-source code we have new solutions to gerrymandering currently available that do not require the additional trade of individual representation for party representation.
+
+Again, the romantic but wrong idea of individual representation over party representation is I think part of the problem here.  Parties are who in fact can best represent voters' interests in a legislature.  Parties are who can muster the votes and build the coalitions to actually pass legislation.  **By far** the most important information about a candidate for Congress currently is whether there is an R or a D next to their name.  It's almost perfectly predictive of their voting.</text>
+    </comment>
+  <comment id="30041843821.0" user="x1uo3yd" delta="False">
+    <text>&amp;gt;...Again, the romantic but wrong idea of individual representation over party representation is I think part of the problem here. Parties are who in fact can best represent voters' interests in a legislature...
+
+If that is your view, then why compromise by keeping any semblance of the old geographical district system via the D'Hondt method at all?  If party affiliation is the only viable metric by a wide margin, then surely it makes the most logical sense to apportion **all** seats "at-large" so that parties can sculpt their party-list as they see fit rather than having half their roster filled with first-past-the-post local winners.</text>
+    </comment>
+  </thread>

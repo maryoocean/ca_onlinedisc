@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<thread>
+  <submission id="2050475588.0" index="12" link="https://www.reddit.com//r/changemyview/comments/xwst38/cmv_the_only_difference_between_ai_digital_life/">
+    <title>CMV: The only difference between AI (digital) life and human (physical) life is the material which sustains it</title>
+    <original_poster>CarpeBedlam</original_poster>
+    <original_post>To be clear, I’m talking about a theoretical AI which is designed specifically to be indistinguishable from a human, and accomplishes that goal. Also, I don’t necessarily mean an android that is physically equivalent (e.g. Ash from “Alien”), but just a digital consciousness living in a computer which is capable of replicating human behavior. At that point, I’m struggling to find a difference between the two that isn’t solely about the material required to sustain the life (blood, tissue, etc. for human life, silicon, copper, etc. for AI life).</original_post>
+    </submission>
+  <comment id="40830214208.0" user="methyltheobromine_" delta="False">
+    <text>That would require that emulating something is the same as creating it. That the input, and not merely the output, is the same. I don't think this is the case.
+
+I can make a liquid which looks like soda, and perhaps which smell like soda, or even tastes like soda... But it still might not be soda. The emulation you've chosen here are "Looks like" and "Acts like", which are difficult to achieve and which might require you to build something which is actually similar.. But it doesn't have to be similar, and I think we just lack the creativity to think of anything new and exotic which could have an output similar to that of a human.
+
+What I'll give you is that we've modeled AI similar to how we work ourselves, e.g. by neurons, but did we have to? You could achieve the same thing by a large chain of IF-statements, even if that's much less efficient.
+
+Modern AI is a large vector of parameters which are fit by approximating curves. There's layers of curves and some math done in between, but there's nothing magical about it.
+
+As to whenever or not these creations have mathematical similarity or some other abstract equivalence between them, I'm not sure. Two different mathematical problems might be "the same", but I'm not sure what this sameness means, or whenever it's a description of reality or something like a group or category. It probably depends on your criteria. I think that we deem mathematical objects the same if they "act" the same, but that this an arbitrary thing to focus on</text>
+    </comment>
+  <comment id="40833263204.0" user="CarpeBedlam" delta="False">
+    <text>Yeah, this is a very good point. That in order to really have a discussion about this, parameters for “success” would need to be laid out. And I suppose that may be the very difference I’m searching for. That a human can exist without any parameters for success. An AI cannot, unless its very parameter for success is to have no parameters.</text>
+    </comment>
+  </thread>

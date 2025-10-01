@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<thread>
+  <submission id="2050475588.0" index="8" link="https://www.reddit.com//r/changemyview/comments/xwst38/cmv_the_only_difference_between_ai_digital_life/">
+    <title>CMV: The only difference between AI (digital) life and human (physical) life is the material which sustains it</title>
+    <original_poster>CarpeBedlam</original_poster>
+    <original_post>To be clear, I’m talking about a theoretical AI which is designed specifically to be indistinguishable from a human, and accomplishes that goal. Also, I don’t necessarily mean an android that is physically equivalent (e.g. Ash from “Alien”), but just a digital consciousness living in a computer which is capable of replicating human behavior. At that point, I’m struggling to find a difference between the two that isn’t solely about the material required to sustain the life (blood, tissue, etc. for human life, silicon, copper, etc. for AI life).</original_post>
+    </submission>
+  <comment id="40829506579.0" user="Careless_Clue_6434" delta="False">
+    <text>When a human makes a decision, they're often trying to accomplish a goal, and they prefer for that goal to be satisfied rather than unsatisfied, and they use the knowledge they have about the world to decide how to accomplish that goal (e.g., a few minutes ago I was hungry, and wanted to stop being hungry, and I knew I had leftovers in my refrigerator, so I microwaved the leftovers and ate them.  If I knew I didn't have leftovers, I'd have gotten food some other way instead.)
+
+If you train an AI to be indistinguishable from a human, then it only ever has one goal, which is 'predict what a human in this situation would do and do that', and it will be totally indifferent to whether the action it takes accomplishes the goal that the human it's pretending to be would be trying to accomplish by taking that action.  In particular, if the AI knows something that it predicts a human in the same situation wouldn't know or wouldn't notice, the AI will deliberately disregard that information.  
+
+We know this will happen because it already happens - on the various GPT models, if you prompt the model with something like 'the following is an example of a python script and its output: &amp;lt;some math problem&amp;gt;, it will be more likely to give the correct answer than if you prompt it with "the following is a math worksheet filled out by a middle school student: &amp;lt;the same math problem&amp;gt;" because the model knows how to do basic math, but also knows that a middle schooler will sometimes get basic math wrong, and only 'cares' about generating text that seems like a likely continuation of the prompt.</text>
+    </comment>
+  <comment id="40833207975.0" user="CarpeBedlam" delta="False">
+    <text>Excellent point, thank you for the response.
+
+This does lead me to a bit of a paradoxical thought. That humans can simply exist without any purpose, whereas AI must have a purpose, even if its purpose is to have no purpose.</text>
+    </comment>
+  </thread>

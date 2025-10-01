@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<thread>
+  <submission id="377961507.0" index="5" link="https://www.reddit.com//r/changemyview/comments/6910yr/cmv_a_computer_could_do_90_of_a_doctors_job/">
+    <title>CMV: A computer could do 90% of a doctor's job (general practitioner in particular).</title>
+    <original_poster>OnlyOnceThreetimes</original_poster>
+    <original_post>I have numerous medical conditions throughout my life and I have many friends who are doctors.  All the doctors I have visited have been terrible at their jobs.  Whether it is complete disinterest, misdiagnosis, unknowledgeable of symptoms indicating problems, misreading x-rays/cat scans, etc.  Any condition that has been solved has been me fighting the medical system with information i've researched on the internet.
+
+If we started a database that tracked symptom of patients, eventually we'd see what percentage of particular symptoms indicate a particular disease/condition/disorder/etc.
+
+I understand people do their own research on Web MD and often go to a doctor and a doctor laughs and tells them what they read is incorrect, but this is because WebMD is not considering everything else about the patient.  
+
+For instance low blood pressure in a 24 year old athlete is not an indicator of a problem as it would be for say an old sedentary and obese 65 year old male. 
+
+Doctors should be detectives, puzzle solvers or scientists, but often I find they are quick to get you in and out of your office for that paycheck.  They see too many patience to devote enough time to solve your obscure case.  And let's say it is indeed an obscure case.  Imagine only 100 people have had your condition, no doctor could ever be expected to piece together the puzzle.  But if those 100 people were logged,  the computer could compare against that.
+
+At best we could train individuals to be intermediaries between the patient and the computer system, so training for general practitioners could be lowered considerably.   And in doing so, their pay would be much lower which would allow money to be used for other things.  more testing labs, more MRI machines, etc.
+
+Imagine going into the automated medical facility and getting your blood work and cat-scan done all in one place.  It would seem to me that your chance of a correct diagnosis would be MUCH higher than dealing with a human.  Most of medical school is just learning IMMENSE text book knowledge and analysis skills, both of which are best handled by a computer.
+
+_____
+
+&amp;gt; *This is a footnote from the CMV moderators. We'd like to remind you of a couple of things. Firstly, please* ***[read through our rules](http://www.reddit.com/r/changemyview/wiki/rules)***. *If you see a comment that has broken one, it is more effective to report it than downvote it. Speaking of which,* ***[downvotes don't change views](http://www.reddit.com/r/changemyview/wiki/guidelines#wiki_upvoting.2Fdownvoting)****! Any questions or concerns? Feel free to* ***[message us](http://www.reddit.com/message/compose?to=/r/changemyview)***. *Happy CMVing!*</original_post>
+    </submission>
+  <comment id="29331251561.0" user="Onomatopesha" delta="False">
+    <text>Right now the most promising technology that could eventually surpass a medical diagnosis is machine learning, which uses recurrent algorithms to learn patterns in several things, among them are medical diagnosis.
+
+The biggest issue right now with machine learning is that in general, the tests that are usually proposed to the neural networks are still rather restrictive in terms of amount of variables, which do not consider the whole picture as well as a (good) doctor can.
+
+There's also the chance that your friends are really that bad when a more experienced doctor might be able to diagnose you correctly I'm just one sitting.
+
+The complexity of a human being requires not only a tremendous amount of knowledge but also a great sense of awareness of the individual itself as well as its context. The neural networks required to tap into that amount of knowledge would imply we as humans have already delved into these intricacies and understand them fully to form an accurate judgment. Then, we'd need to be able to feed all that information to it for the computers to process that much. For something as complex as that, i believe we should be looking at quantum computing or that we efficiently got past Moore's law to the point of reaching even larger amounts of processing, something that is extremely expensive and probably not worth the effort at the moment.
+
+I do think that eventually, a more sophisticated form of machine learning will take place and truly aid doctors in their diagnosis, until they are eventually replaced (assuming we can get past Moore's law and truly tap into quantum computing), but right now I don't think that the technology is really there, nor is the interest in investing for its development.</text>
+    </comment>
+  </thread>

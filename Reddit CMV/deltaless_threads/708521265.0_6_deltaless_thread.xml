@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<thread>
+  <submission id="708521265.0" index="6" link="https://www.reddit.com//r/changemyview/comments/bpu2i9/cmv_chromium_should_be_the_reference_web_browser/">
+    <title>CMV: Chromium should be the reference web browser implementation and maintained by an independent, non-profit organization.</title>
+    <original_poster>vincentofearth</original_poster>
+    <original_post>Warning: this is a bit technical and long-winded and you may not actually care.
+
+&amp;lt;background&amp;gt;
+
+The [web](https://en.wikipedia.org/wiki/World_Wide_Web) is built on a set of [standards](https://en.wikipedia.org/wiki/Web_standards) that determine how web sites &amp;amp; apps are created, how they should be displayed, and how they should behave. Several organizations maintain and create these standards, like the [World Wide Web Consortium](https://www.w3.org/Consortium/), [Ecma International](https://www.ecma-international.org/default.htm), and many more (mostly with terrible websites).
+
+The basic idea is that through these standards bodies, companies (Google, Microsoft, Apple), non-profits (Mozilla), and other internet stakeholders can come together and agree on some rules, recommendations, and conventions. Developers follow these standards when creating apps and websites. In turn, browsers agree to honor the standards. This is how you can create an app once and know that it's the same on all the latest browsers.
+
+Except that last statement **isn't true**. Even a casual person on the web will know that [certain sites](https://twitter.com/AirbnbHelp/status/752829250198245376) just look weird on certain browsers. Weird bugs will pop up or some apps just don't work on browsers with a smaller market share. Some websites will even block specific browsers.
+
+A lot of websites today are [built only for Chrome](https://www.theverge.com/2018/1/4/16805216/google-chrome-only-sites-internet-explorer-6-web-standards), and Firefox/Edge/Safari users can count themselves lucky if, by sheer luck, a website also works on their obscure browser. Google Chrome's [dominance](http://gs.statcounter.com/) (63% market share) and [other](https://electronjs.org/docs/tutorial/about) [factors](https://github.com/MicrosoftEdge/MSEdge/blob/master/README.md) mean that this will probably only grow worse in the future. Many [feel that this threatens](https://blog.mozilla.org/blog/2018/12/06/goodbye-edge/) the open standards that the web is built on, as Google builds its own set of standards and becomes the ultimate gatekeeper to our online lives.
+
+Standards can never cover all the bases. Each [browser engine](https://gizmodo.com/which-browser-engine-powers-your-web-browsing-and-why-d-1833935288) implements standards [differently](https://caniuse.com/), with just enough minor differences to matter. They don't always do it at the same pace, their users don't update at the same pace, and they sometimes add features that aren't even standard yet. So developers are left to adapt--to patch the gaps and create workarounds, or (as more and more are doing) just give up and assume their users are using Chromium (Chrome's engine) or block those that aren't.
+
+&amp;lt;/background&amp;gt;
+
+Many feel that the solution is for more browsers--or actually, more browser *engines*, with a healthier market share for each (basically, *more competition*). This will force developers to build for the whole internet, not just for Chrome. I think this is a pipe dream at this point.
+
+My position: there should be a **reference implementation** of a web browser that is actively maintained by a single independent, non-profit organization with members from many different stakeholders. Developers should test their sites on this reference. Actual browsers (Chrome, Firefox, Safari) can add their own specific app features like a Download Manager, Extensions, Reading mode--anything that's not rendering the page. They can even deviate from the reference, but they must do so knowing that the reference stays the reference.
+
+As things currently stand, the standards leave too much for browser vendors to decide. There are entire libraries devoted to solving the issue of incompatibility between browsers, and they haven't succeeded. This should not be the case. Competition is good, but it should be based on merit, not on how entrenched something is. As a user, I want to choose my browser based on its **features**, and I should just be able to assume that it can do the basic job of rendering a web page correctly, and (perhaps more important) consistently.
+
+Edit: Added a final section I left out earlier, plus some additional clarification.</original_post>
+    </submission>
+  <comment id="31926757915.0" user="Blade1130" delta="False">
+    <text>I actually had a very similar view to this not too long ago. While interesting, I'm not fully convinced of the idea. To call out one specific point:
+
+&amp;gt;My position: there should be a reference implementation of a web browser that is actively maintained by a single independent, non-profit organization with members from many different stakeholders. Developers should test their sites on this reference. Actual browsers (Chrome, Firefox, Safari) can add their own specific app features like a Download Manager, Extensions, Reading mode--anything that's not rendering the page. They can even deviate from the reference, but they must do so knowing that the reference stays the reference.
+
+Two problems here. First, you're advocating that web developers build for some hypothetical "standards-compliant" browser, but no users (except THAT ONE GUY) actually use this browser. If my site works on StandardsBrowser but breaks on Chrome, I can't reach any real users. In a perfect world that would be enough, but this viewpoint fails to acknowledge the imperfect reality that we live in. If Chrome/Firefox/IE do something non-standard, that's the reality that I, as a web developer, must live with because that's what my users live with.
+
+Secondly, some browsers intentionally deviate from the spec. Apple is notorious about this, and you can see their Progressive We App implementations in Safari as one example. You'd have to convince Apple, Microsoft, Google, etc. to join in on this, which leads to my main point.
+
+Currently, the "balance of power" is held in the standards committees. Various companies send representatives to debate the future of the web. Google might push one technology (say WebRTC) to support some cool chat app they're building *cough* Hangouts *cough*. Meanwhile, Microsoft, Mozilla, and Apple might all be heading in different directions wanting different features which shape the web in different directions. Having a reference StandardsBrowser would simply shift the balance of power from the standards committees to the browser implementation as different interests vie for different features and product directions without improving the web in any meaningful way.
+
+Here's one example: Today, Google in particular exerts a lot of sway over these committees due to their strong web presence and that would likely continue into this non-profit owned StandardsBrowser. Apple by contrast has much less control. What happens when Apple doesn't like the direction it's going (see PWAs)? They'll fork StandardsBrowser into Safari 2.0 and the cycle repeats.
+
+I anticipate someone will say "the non-profit will decide the product direction of the web, not these competing companies!" I don't see that as likely, because the web is shaped by what sites and applications are built with it, rather than the infrastructure it is built on. Google, Facebook, etc. have a very real financial interest in growing the web in a direction that supports their business model. Building a browser is incredibly expensive, and StandardsBrowser would likely be built off money from these tech giants.
+
+Ultimately my thought is: In a perfect world, your view would work great. Sadly we don't live in that reality.</text>
+    </comment>
+  </thread>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8'?>
+<thread>
+  <submission id="96123581.0" index="1" link="https://www.reddit.com//r/changemyview/comments/1l89fh/i_believe_that_compiled_binary_programs_should/">
+    <title>I believe that compiled binary programs should not be protected by copyright law. CMV</title>
+    <original_poster>binlargin</original_poster>
+    <original_post>The default stance is that published works are in the public domain, but copyright exists to enrich the public domain via an agreement between society and creators of the useful arts. Authors receive a temporary monopoly over their creation while society is enriched by a greater number of high quality works entering the public domain once copyright has expired.
+
+When you write computer software you generally write it in an English-like language and this is compiled to a machine-readable "binary" designed to run on today's computer hardware and software. In closed source software only the binary is released, yet these are protected by copyright law because they are a derived work of the source code. 
+
+Due to the fast pace of technological change today's software will be of extremely limited use when its copyright protection has expired. Binaries will be far less useful than the unpublished source code and in my opinion, their protection violates the spirit of copyright, sets a bad example and robs the public domain giving future generations a bum deal.
+
+My controversial view:
+
+Copyright law should specifically exclude protection for "obfuscated works" and that this should apply to binaries and other said works unless obfuscation is the subject of the work itself (such as a book of puzzles). Computer software should only be protected if the source code is shared either as part of the publication or with a copyright registration authority. I believe it's reasonable for a fee to be charged for keeping the code in escrow until the copyright expires.
+
+Change my view Reddit</original_post>
+    </submission>
+  <comment id="26841467134.0" user="Bobmuffins" delta="False">
+    <text>Food producers don't need to share their recipes. They legally must share the ingredients, but not the process to make it or the proportions of the ingredients. This is obviously to prevent competitors- or even consumers- from producing their own, driving profits for the original developer into the ground. Why should software companies have to do the functional equivalent of sharing their recipe?
+
+Furthermore, unlike with food items, no one would need a specialized piece of machinery or hard-to-obtain ingredients to make their own. They'd literally just need to know how to compile the code themselves. This would make piracy shoot through the roof, even more so than it already is.
+
+This offers no practical benefit to the end user, while it has many downsides for the designer of the program. Discouraging software design is the opposite of the direction we should be going.</text>
+    </comment>
+  <comment id="26841489490.0" user="binlargin" delta="False">
+    <text>&amp;gt; Why should software companies have to do the functional equivalent of sharing their recipe?
+
+Because that's a fair deal for copyright protection. If they don't need copyright protection then they don't need to share their code, and I specifically offer an escrow option for large corporations who don't want to share their code until copyright expires. So they only need to share it with governments in the regions in which they publish.
+
+&amp;gt; They'd literally just need to know how to compile the code themselves. This would make piracy shoot through the roof, even more so than it already is.
+
+What's the difference between downloading a torrent containing binaries and downloading a torrent containing code? Both would be illegal. Also, escrow applies here too.
+
+&amp;gt; This offers no practical benefit to the end user, while it has many downsides for the designer of the program. 
+
+We could extend copyright by 50 another years today and there would be no real loss to today's readers and some gains for today's publishers, but we'd be pillaging the public domain and stealing from the society of tomorrow. Also I believe that there is a practical benefit to end users, more source code will be available for public understanding, which includes the training and development of tomorrow's programmers. Users will live in a more open society where more people understand how their software works.
+
+&amp;gt; Discouraging software design is the opposite of the direction we should be going.
+
+I'm a software engineer myself and not only is the demand for us about 3 times the supply, outside of games most of the most innovative work is being done in the open source community where they already share their code. 
+
+I also think that mandating shared-source would encourage people to learn to program which would be a net benefit for society. I liken programming to reading and writing, the more people who are literate in the language of machines the more control they have over their lives.</text>
+    </comment>
+  <comment id="26841502687.0" user="Bobmuffins" delta="False">
+    <text>&amp;gt; Because that's a fair deal for copyright protection.
+
+Why?
+
+No, seriously, why is that a "fair deal"? "If you want to copyright this, you need to do the thing that is the opposite of your goal and make it more publicly open"?</text>
+    </comment>
+  <comment id="26841523547.0" user="binlargin" delta="False">
+    <text>Copyright is not the default position and it's not really a "right", it's a power over other people granted by the state based on an agreement.
+
+The agreement is that people don't share information, that they refrain from using their own technology in ways that might upset the interests of creators.
+
+So should the good people of civilized society entertain such infringements on their right to the free exchange of information without getting something good in return? Should the details of this contract not be up for negotiation?</text>
+    </comment>
+  <comment id="26841537397.0" user="Bobmuffins" delta="False">
+    <text>&amp;gt;right to the free exchange of information
+
+Where is this right spelled out, anyways? It's something the denizens of the internet often scream and cry about, but there's very little reason to believe it actually exists in the US, let alone the rest of the world.
+
+However, the right to not have your stuff stolen (or, in this case, copied without a sale) exists in every country and society in the world.
+
+The internet is an international system. Attempting to make a stipulation such as "You must share source code to your product" based off a US law may violate the laws of another country. What country, what law, I don't know. International law is weird. A rule like the one you're proposing, however, could potentially be far, far too complex to practically implement. International copyright law is already a nightmare to navigate, adding such a stipulation would just add an unnecessary level of complication for very little return to the average person.</text>
+    </comment>
+  <comment id="26841568962.0" user="binlargin" delta="False">
+    <text>&amp;gt; Where is this right spelled out, anyways?
+
+I'm not talking about specific laws, but natural rights. Copyright law is artificial and a very recent thing, it shouldn't be thought of as God-given or property regardless of how many times that's been shoved down your throat by the entertainment industry. You can use logical reasoning to arrive at why it may be useful, but I can't see a way to arrive at adherence being anything more than polite and enforcement being anything less than infringing.
+
+&amp;gt; However, the right to not have your stuff stolen (or, in this case, copied without a sale) exists in every country and society in the world.
+
+You're confusing two things there, IP isn't real property. I understand that not many people understand copyright law but I think I explained it in my earlier post.
+
+&amp;gt; The internet is an international system. Attempting to make a stipulation such as "You must share source code to your product" based off a US law may violate the laws of another country. What country, what law, I don't know. 
+
+I'm not from the US and can assure you that local restrictions on the scope of copyright exist in every country, adding an extra one wouldn't make that much difference. I can't see how it could violate the laws of another country either, do you have a hypothetical situation in mind? If you've got lawyers or a publisher then they deal with all that, otherwise you just release the code.
+
+Also I'm mentioning escrow again here. You pays your money, you gives your codes to the national body of your choice, they keep your secret sauce safe and release it via a national library once copyright has expired. If you don't want to pay then you release your code publicly.</text>
+    </comment>
+  <comment id="26841696185.0" user="karnim" delta="False">
+    <text>Why is IP not actual property?  Does this mean that you also need to make all of your bank account information publicly available, because it doesn't exist in the real world?
+
+Using somebody else's example, IP is like a recipe.  Somebody can make a recipe and say "I made this.  It's mine, and you can't use it.  I want it all to myself.  If you want to figure out what I did, figure it out yourself".  That's seems like a natural right to me.  Instead, after a decade or so, the goverment requires that IP is release to the public at the end of the copyright, and allowed into public domain usually well after the company has made their profit and releasing it won't harm them too much.
+
+And as an addition, copyrights aren't free. You can't just pop a (c) on something and have it be legally copyrighted.</text>
+    </comment>
+  <comment id="26841718218.0" user="binlargin" delta="False">
+    <text>&amp;gt; Does this mean that you also need to make all of your bank account information publicly available, because it doesn't exist in the real world?
+
+Bank accounts details are facts, not creative works, they are not covered by copyright. Privacy law exists separately from copyright.
+
+&amp;gt;  Somebody can make a recipe and say "I made this. It's mine, and you can't use it. I want it all to myself. If you want to figure out what I did, figure it out yourself".
+
+Sure: it's the baker's right to decide whether to share his recipe with you or not. That's not copyright though. Copyright is when the baker can show us the recipe but only he is allowed to make copies of it. We agree to this in return for the recipe later on, once the copyright expires it belongs to everyone; it's part of the public domain and everyone is a little richer for it. It's like we buy the recipe off the baker throughout his life knowing that we get to keep it once he's gone.
+
+Now let's stretch this a bit further.
+
+Say we had a machine that could make identical copies of cakes without needing a list of ingredients and everyone's got one, they're more common than ovens. Because the cakes are "derived from" (based on) the copyrighted recipe our agreement means that the baker is the only person who can legally make copies of them. This means he can keep his recipe a secret and sell us cakes instead, by the time copyright on the recipe has ended the cakes are stale and useless to us. We've been shafted by the baker via a copyright law loophole.
+
+My argument is that I don't want stale cakes, I want the recipe. If the baker doesn't share his recipe then the deal is off, we should just copy his cakes. `cake=software; recipe=source; baker=developer; goto Sure;`
+
+&amp;gt; And as an addition, copyrights aren't free. You can't just pop a (c) on something and have it be legally copyrighted.
+
+You're probably thinking of patents or trademarks or something. There are some restrictions in American law (no statutory damages or legal fees) but 164 countries signed up to the Berne Convention and anyone creating works in those countries gets automatic cover in all others without registration, you don't even need a copyright symbol.</text>
+    </comment>
+  <comment id="26841916133.0" user="karnim" delta="False">
+    <text>I guess the question is, why do you think you should be allowed to make your own cakes identical to the ones the inventor can make?  You can always go make your own recipe instead, but there is no real reason somebody should give you their recipe and miss out on the profits.</text>
+    </comment>
+  <comment id="26842116508.0" user="binlargin" delta="False">
+    <text>&amp;gt;why do you think you should be allowed to make your own cakes identical to the ones the inventor can make?
+
+Again you're thinking of copyright as the default stance. I have a cake copying machine. Why is it anyone else's business what I do with it? If I enter into an agreement not to copy cakes then I want something in return.</text>
+    </comment>
+  <comment id="26842088118.0" user="shamankous" delta="False">
+    <text>&amp;gt; Food producers don't need to share their recipes. They legally must share the ingredients, but not the process to make it or the proportions of the ingredients. This is obviously to prevent competitors- or even consumers- from producing their own, driving profits for the original developer into the ground. Why should software companies have to do the functional equivalent of sharing their recipe?
+
+However, in this case the food itself is the end product. With software you are explicitly buying a computational process. A more reasonable analogy would be buying an oven but not being allowed to take it apart to see how it worked. When computation used to be expensive you would buy large books filled with the results of trigonometric and log functions at varying degrees of precision. Now you buy a machine that will compute that function for you, however the algorithm to do so has been obfuscated to prevent copying. This is what licenses attempt to do, you don't actually own the algorithm in question, the company who wrote it is loaning it to you for a one time fee.</text>
+    </comment>
+  <comment id="26842145512.0" user="z3r0shade" delta="False">
+    <text>To be fair:
+
+&amp;gt;  A more reasonable analogy would be buying an oven but not being allowed to take it apart to see how it worked.
+
+A lot of electronics companies are doing the equivalent of this. If I take apart a game console, I'm able to be sued for copyright infringement if I disseminate anything I found out about how it works. If I then modify the console for personal use, I once again can be sued for copyright infringement. </text>
+    </comment>
+  <comment id="26842170621.0" user="shamankous" delta="False">
+    <text>Which can be seen as the DMCA anti-circumvention laws bleeding over into the physical world in a way that seems pretty insane.</text>
+    </comment>
+  <comment id="26842239542.0" user="z3r0shade" delta="False">
+    <text>Agreed!</text>
+    </comment>
+  </thread>

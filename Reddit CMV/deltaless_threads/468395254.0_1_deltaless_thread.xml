@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<thread>
+  <submission id="468395254.0" index="1" link="https://www.reddit.com//r/changemyview/comments/7qvc3a/cmv_congress_should_change_congressional/">
+    <title>CMV: Congress should change Congressional elections to Mixed Member Proportional to end gerrymandering.</title>
+    <original_poster>huadpe</original_poster>
+    <original_post>Congress has the power to regulate and alter the "times, places and manner of holding elections for Senators and Representatives" under Article I, Section 4 of the Constitution.
+
+Currently, under this power, the Congress [has mandated that all members of the House of Representatives be elected from single-member geographic districts.](https://www.law.cornell.edu/uscode/text/2/2c)
+
+I propose that Congress repeal this provision and replace it with one requiring that members of the House be elected under a mixed member proportional system, with a bare majority of the seats apportioned to a state being divided into geographic districts, and the remainder being used to fill in based on party vote in those seats using the D'Hondt method.
+
+For states with only 1 seat, this would mean no change.
+
+For states with 2 seats, this would mean both districts were "at large."  The party who won the normal "at large" seat would also win the second at large seat if they had 2/3 of the two-party vote in the state, or in the event of a three+ party split, if they had achieved twice as many votes as the next-most-vote-getting party.  Otherwise, the next most successful party would get the second seat.
+
+For states with 3 seats, 2 would be geographic and 1 would be at-large.
+
+For states with 4 seats, 2 would be geographic and 2 would be at-large.  
+
+For states with 5 seats, 3 would be geographic and 2 would be at-large.
+
+And so on.
+
+I don't have a firm threshold for party qualification for at large seats, but I'd be fine with anything from 5-15%.  Members running as independents would be able to run in geographic districts only, and I'd allow that any party winning a geographic district be allowed to get proportional seats regardless of the threshold.
+
+
+
+This would effectively end gerrymandering, while still allowing local representation of regions of states with sufficient population to have 3 or more representatives.  The boundaries of those districts would become far less important, because the at-large seats would ensure that packing and cracking have little if any effect on overall partisan makeup.
+
+This would also not require a constitutional amendment, since it would be able to be enacted under the Article I Section 4 power.
+
+I think that at least one party (probably the Democrats) should run on this platform, and if elected, pass it into law.
+
+*edit* fixed an error when I inserted a paragraph at the wrong spot when composing this.
+
+_____
+
+&amp;gt; *This is a footnote from the CMV moderators. We'd like to remind you of a couple of things. Firstly, please* ***[read through our rules](http://www.reddit.com/r/changemyview/wiki/rules)***. *If you see a comment that has broken one, it is more effective to report it than downvote it. Speaking of which,* ***[downvotes don't change views](http://www.reddit.com/r/changemyview/wiki/guidelines#wiki_upvoting.2Fdownvoting)****! Any questions or concerns? Feel free to* ***[message us](http://www.reddit.com/message/compose?to=/r/changemyview)***. *Happy CMVing!*</original_post>
+    </submission>
+  <comment id="30038506634.0" user="Mitoza" delta="False">
+    <text>But the bare majority is still important, no? So it seems like you're removing some incentive for gerrymandering, but it still has gains to be won. </text>
+    </comment>
+  <comment id="30038514749.0" user="huadpe" delta="False">
+    <text>If you win all of the bare majority of seats which are geographic, then you must have won a plurality of the vote in the state, and therefore getting a majority of the seats is not unreasonable in my view.
+
+If you do not win a plurality of the vote (or a majority if just two parties) it is mathematically impossible to win every geographic district.</text>
+    </comment>
+  <comment id="30038535493.0" user="Mitoza" delta="False">
+    <text>Doesn't that rely on winning all three though? If you pack the opposition party into 1 district and crack the rest between 2 districts that guarantee a solid win, it does not matter how many people voted in the first district compared to the other two.
+
+</text>
+    </comment>
+  <comment id="30038541300.0" user="huadpe" delta="False">
+    <text>Hm?  A state with 3 geographic districts under MMP would have 5 or 6 total seats.  So if you packed the Democrats or Republicans all into one geographic district, they'd take probably 2/2 or 2/3 of the at large seats (depending on total statewide vote) to make up for it.</text>
+    </comment>
+  <comment id="30038557969.0" user="Mitoza" delta="False">
+    <text>But then they are just making up for it. Your plan ensures that the consequences of gerrymandering are less severe, but it does not remove the incentive. 
+
+So based on geographic area, the R's in the 6 seat state with 2/3 of the geographic districts, and let's say the D's win 2/3 of the at large districts. Both end up outside of that equation with equal delegates, but the state itself isn't necessarily geographically represented fairly. Maybe if the districts were redrawn so that the D's weren't packed, the D's would be representing the state with 4/6 seats.  </text>
+    </comment>
+  <comment id="30038583092.0" user="huadpe" delta="False">
+    <text>&amp;gt;Maybe if the districts were redrawn so that the D's weren't packed, the D's would be representing the state with 4/6 seats.
+
+Assuming no third parties:
+
+The Democrats in this scenario have the opportunity to win 4/6 seats if they got more than 4/7ths (~57%) of the vote.  Gerrymandering of the 2 seats for Republicans would only have an impact if Democrats had gotten more than 2/3 of the statewide vote, in which case, they would be entitled to 5/6 of the seats with republicans getting just 1/6, but because of geographic districts it would be 4/6 to 2/6.
+
+It's mathematically possible to win 2 of 3 geographic districts while losing the popular vote by more than 33%, but it requires some REALLY wonky assumptions about turnout and some crazy luck.  It seems like such an unlikely edge case, and one only impacting a single seat, that it is not view changing.</text>
+    </comment>
+  <comment id="30038598556.0" user="Mitoza" delta="False">
+    <text>But by your admission, this isn't the end of gerrymandering. Consider that your system is still good for mitigating gerrymandering, but it is not the ultimate solution that you have originally proposed. </text>
+    </comment>
+  <comment id="30038601871.0" user="huadpe" delta="False">
+    <text>It effectively ends gerrymandering.  The district boundaries are not meaningful political advantages except in such strange edge cases as to be un-game-able.</text>
+    </comment>
+  <comment id="30038636539.0" user="Mitoza" delta="False">
+    <text>That's not true. You just described how it could be gamed.
+
+Impacting a single seat is still relevant, especially as it adds up across states. </text>
+    </comment>
+  <comment id="30038642515.0" user="huadpe" delta="False">
+    <text>I described a really weird scenario in which turnout was _much_ higher in one district than the two others, and both of those other districts were won by razor-thin margins.  That's not something anyone could actually plan for.</text>
+    </comment>
+  <comment id="30038671373.0" user="Mitoza" delta="False">
+    <text>Turnout doesn't really matter to the equation, but proportion does.
+
+District 1 and 2 are won by R's 55 to 45. District 3 D's won 80 to 20. 
+
+That's 130 R's, 170 D's. They should each be getting roughly half of delegation, but the R's got another seat. </text>
+    </comment>
+  <comment id="30038704284.0" user="huadpe" delta="False">
+    <text>In that scenario Rs get 3 seats and Ds get 3 if it were 6 seats.  If 5, it would be R2/D3.  The Democrats only got 56.66% of the vote.  For 6 seats, the "not 3/3" line is at 57.14%.
+
+The lines between the districts do not matter in that scenario, because there are enough at large seats to ensure Democrats get a proportional result.</text>
+    </comment>
+  <comment id="30038728067.0" user="Mitoza" delta="False">
+    <text>Even if I'm wrong on the math, it still demonstrates my point: turnout doesn't matter, only the relative proportion of voters. Gerrymandering works in cases of extreme packing. </text>
+    </comment>
+  <comment id="30038733238.0" user="huadpe" delta="False">
+    <text>The point I was making about turnout is that in a 6 seat state, even 51R/49D + 51R/49D + 0R/100D is not enough to make the MMP system get the wrong result.  The right result there is 2 seats R, 4 seats D, which it produces.
+
+You need to get 51R/49D + 51R/49D +0R/103D to get to a 5/1 result being the right proportional result, but the 2 seats getting you 4/2</text>
+    </comment>
+  <comment id="30038746097.0" user="Mitoza" delta="False">
+    <text>Yes, I suppose you're right. I wasn't getting the math. </text>
+    </comment>
+  </thread>

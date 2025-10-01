@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<thread>
+  <submission id="108804453.0" index="6" link="https://www.reddit.com//r/changemyview/comments/1ss21x/i_think_the_main_reason_to_object_to_cars_isnt/">
+    <title>I think the main reason to object to cars isn't pollution or gasoline, it's the space; the fact that gridlock happens at all is ridiculous. CMV.</title>
+    <original_poster>spazdor</original_poster>
+    <original_post>When I see most car-judging on the Internet, I see people mainly talking about tailpipe emissions and the environment, or else gasoline prices and international politics. Now I want to agree hastily that these are good, important things to worry about, but I'm not really worried about them, at least not in the long term. Cars are getting more fuel efficient, and hybrid cars are gaining market share, and eventually they'll run on some other energy source anyway. 
+
+But cars are *not* getting significantly smaller, the brief Mini fad notwithstanding, and the population is growing.
+
+My home city, Vancouver, is certainly not the worst North American city when it comes to traffic, and I think some people would even say we're comparatively pretty good. But still every morning, and every evening, for about 2 hours each, our downtown core and the major arteries of our city are full. Not completely jammed, but moving slowly, bumper-nearly-to-bumper, travelling at roughly the same average pace as a moderately-fit jogger.
+
+They move this slowly because there are such-and-such many cars per kilometre of road, and because it would be unsafe to drive at/near the speed limit when the distance between cars is so short; no one has that kind of reaction time. And there are so many cars because, as a society, we have this thing where it is basically expected that every adult who has passed some tests, is entitled to occupy their own 4 or 5 meter rectangle of public road space to themselves, for as long as they need to. 
+
+This is something which most city dwellers see as normal, and I can't seem to get anyone else to see this everyone-gets-a-car-or-at-least-most-people model of urban life as a completely absurd, ludicrous solution to a pretty simple engineering problem. The usefulness of everyone's car decreases slightly with each additional car there is on the road, and I feel like most medium-to-big cities are already at the point of diminishing returns, where additional cars slow down their neighbours by a greater margin than they provide their own driver, and so actually have *negative net utility.*
+
+Does it make sense for people to use the same machine to traverse between cities (highway systems are *very* efficient!) as they use to cross town? If it does, CMV!</original_post>
+    </submission>
+  <comment id="26969408058.0" user="A_Soporific" delta="False">
+    <text>Smaller cars do not improve road utilization. The vast majority of space is consumed by maintaining safe distance, which doesn't vary by the size of the vehicle.
+
+The fact of the matter is that low density living (IE a single family home) is preferable to high density (IE an apartment) for a variety of reasons. The drawback to low density living is that it requires distance from work, school, shopping, and most tellingly public transit points. That distance in turn requires transit. Cars are the most effective choice for low density living.
+
+After all, the issue with commute is time. That's how the average person judges things. Before mass transit like a trolley it was rare for a city to be larger than an hour's walk end to end. Once trolleys and streetcars were established cities grew to still be about an hour from end to end. With the addition of trains the city grew to still be about an hour's trip. With the addition of cars, the city grew yet again to the hour limit. It's only an issue now because it's now taking more than an hour (due to congestion) to get to where you want to go with the fastest alternative.
+
+There isn't an easier answer. Mass transit isn't an automatic solution because you can't make mass transit both faster between points *and* better coverage of points. So mass transit will be limited to areas of high density were the coverage is easier to establish. More roads isn't a solution because new roads lead to new growth and more people.
+
+You can make cities more pleasant to live in, increasing the utilization of mass transit and shortening trips. You can provide more services and jobs in low density environments, reducing the number of trips and moving traffic to underutilized roads. You can introduce a new, faster transit alternative that doesn't use the same right of way as roads or trains thus moving people even farther away but reducing utilizations of existing infrastructure. You can introduce a new, slower transit alternative that doesn't use the same right of way as roads or trains thus allowing people who live closer in to pick a better option for them and reducing road utilization (biking trails?).
+
+Implementing any fix would be very hard and very expensive, so I doubt that much will change until someone come up with a compelling and novel theory on how to handle all this stuff.</text>
+    </comment>
+  <comment id="26969479272.0" user="spazdor" delta="False">
+    <text>&amp;gt; Smaller cars do not improve road utilization. The vast majority of space is consumed by maintaining safe distance, which doesn't vary by the size of the vehicle.
+
+I'd agree that this is true to a certain point, though I would point out that bicycles and motorcycles are so much more agile than cars that they require less lateral maneuvering space as well as fewer meters of road lengthwise, and so have much better road utility than even "small cars", which are still about 80% as big as big cars these days.
+
+I don't have any good ideas on how to efficiently get people from the low-density populated region into the high-density one and back, because of the many-sources-few-destinations thing; one thing I see implemented in suburban areas is "community shuttles", which are operated by our bus authority but are really just big wheelchair-accessible vans; they offer a sort of a middle ground between low- and high-density traffic, but there are currently far too few of them deployed to make any dent in traffic, and I'm sure they face a very difficult problem in trying to convince anyone in the suburbs to switch.
+
+</text>
+    </comment>
+  <comment id="26969561033.0" user="A_Soporific" delta="False">
+    <text>I would argue that bicycles should have separate right of ways altogether. It's safer and allows for better utilization of both.
+
+The problem with the community shuttles is that it's many-sources-many-destinations things. You just can't get the shuttles to go enough places to replace enough trips for them to become reliable replacement for a car.
+
+As long as the structure of development assumes and designs for a car, the car will be the most effective choice and anything else would be the "next best".</text>
+    </comment>
+  <comment id="26969601539.0" user="spazdor" delta="False">
+    <text>What if motorcycle ownership and use were as widespread as cars are right now, and owning a car was more like owning a pickup: something that maybe 1 or 2 people out of any big-ish group of friends uses to help out their pals when they need it?
+
+I know, I know, safety. But I think if we'd been a bit more creative in setting up this model of city life in the first place, we could have had garages full of cheap and compact (scooter-compact, not Volkswagen compact) individual vehicles in of all configurations, including things like roll bars and safety enclosures if you like, by now.
+
+Tokyo is a few streets ahead of us on the exponential growth curve, and has had to deal with a lot of these scaling problems before us - and it seems like the vehicle designs which proliferate there are much more individually suited to the vehicle's primary job.
+
+Am I wrong to suggest it's a very Western idea that we would use the same machine to get ourselves to work as we do to carry the fishing boat down to the lake out of town?</text>
+    </comment>
+  <comment id="26969705672.0" user="A_Soporific" delta="False">
+    <text>We were clever in setting up cities and suburbs. They originally had separate walking/biking trails, roads, and rail systems. But there need to be certain percentages maintained before things are supplanted, trails and rails gradually fell into relative disuse.
+
+Many Asiatic cities never had the space to spread out so they were forced to deal with density, or never had widespread access to cars also forcing density. They aren't "ahead" of us on those curves, they are either "behind" us or were coping with a fundamentally different limiting factor.
+
+Define "work". Many vehicles are the way they are because they "need" to be that scale. More accurately, a super-subcompact requires daily trips for food shopping, something handled on a weekly or monthly basis by larger vehicles. How you shop for food, and what kind of shops are patronized, vary significantly based on the size of vehicle available. Having multiple sizes of vehicle for different kinds purposes is unnecessarily complicating.</text>
+    </comment>
+  </thread>

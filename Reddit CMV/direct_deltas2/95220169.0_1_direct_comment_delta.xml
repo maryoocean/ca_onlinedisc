@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<thread>
+  <submission id="95220169.0" index="1" link="https://www.reddit.com//r/changemyview/comments/1kowcp/i_believe_that_the_40hour_workweek_is_unnecessary/">
+    <title>I believe that the 40-hour workweek is unnecessary on any level. CMV</title>
+    <original_poster>hobbitforming</original_poster>
+    <original_post>I believe that working 40 hours a week is entirely unnecessary for even (and perhaps especially for) technologically advanced first-world countries to thrive.  I feel that it isn't even possible for the majority of people to stay engaged for 8 or 9 hours a day, and that the 80/20 principle applies beautifully here (80 percent of work gets done during 20 percent of the time).
+
+Our technological productivity has outpace our wants and needs to such a vast degree that it seems there are only to reasons justifying such a long work-week:
+
+1-The economic machine needs people to be occupied so that they fall into the consumer mentality and fill up their few remaining hours with purchased items to entertain and fulfill themselves.  If people worked less, even if they were as productive, our economic growth would slow (which ecologically needs to happen, but I suppose can be seen as a negative).
+
+2-Certain endeavors demand 40 hours or more a week.  Athletics, science, writing...but these are passion-based, rather than need-based.
+
+I believe we could live happily in a world where everyone worked 20 hours each week.  CMV
+
+edit: An awesome article that sums up my points much better than I can (thanks /u/WishingForBadThings)
+
+http://www.strikemag.org/bullshit-jobs/</original_post>
+    </submission>
+  <comment id="26832130310.0" user="PraetorianFury" delta="True">
+    <text>I think I know what your real question is, because I ask myself the same thing almost everyday.
+
+ Why am I being paid to come in and screw around on reddit all day?
+
+Well the quickest way to justify your employment is to realize that availability itself has value.  The little two minute conversations, and the peace of mind of having a (presumably) technical safety net are not worthless to other employees, though it feels that way to you.  You're basically "on call" while in your chair.
+
+Is this the best possible way of utilizing you?  Probably not, but any organization that grows sufficiently large becomes progressively more inefficient.  We play video games and have perfect understanding of every aspect of the universe, along with godlike powers to influence it.  But obviously this is not how real life works.  Managers frequently supervise projects about which they have no knowledge.  And even if they did at one point work in the field, their knowledge immediately begins to decay the moment they are promoted.  So they can and do get played by their subordinates, just like a mechanic can tell you whatever he wants and without any knowledge, you're helpless to contradict him.  But here's the kicker, in our analogy, it's not even your car.  So when 4th and 5th gears break 6 months later, hey, you just did what the mechanic told you to, right?  On my project, we've had 3 project managers in 2 years.  More important than fixing things is making sure they don't break while you're in charge.  Doing nothing accomplishes that goal very nicely.
+
+ But even when immediate supervisors are informed and invested enough to reform the system, they often don't have the authority to enact the changes.  They need more personnel, or less, or more time for refactoring without any new functionality, etc.  Usually that goes up the chain to someone even more detached and insulated from project success or failure.   The project managers are there because developers can't be trusted with decisions about development, and change control committees are there because project managers can't be trusted with decisions about the project.  A tyrant or fool at any point could be disastrous, so we create oversight to protect us from failure.  But it also prevents success.  So if you really wanted to find a place where everything you do matters and you can accomplish anything as fast as you can physically implement it, go find yourself a tiny startup where hiring you increases the company's population by like 10%.  But keep in mind that as you gain freedom, you lose security, as the very thing that makes indie companies appealing is also what makes them so risky and inconsistent.
+
+</text>
+    </comment>
+  </thread>

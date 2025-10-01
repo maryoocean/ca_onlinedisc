@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<thread>
+  <submission id="377961507.0" index="4" link="https://www.reddit.com//r/changemyview/comments/6910yr/cmv_a_computer_could_do_90_of_a_doctors_job/">
+    <title>CMV: A computer could do 90% of a doctor's job (general practitioner in particular).</title>
+    <original_poster>OnlyOnceThreetimes</original_poster>
+    <original_post>I have numerous medical conditions throughout my life and I have many friends who are doctors.  All the doctors I have visited have been terrible at their jobs.  Whether it is complete disinterest, misdiagnosis, unknowledgeable of symptoms indicating problems, misreading x-rays/cat scans, etc.  Any condition that has been solved has been me fighting the medical system with information i've researched on the internet.
+
+If we started a database that tracked symptom of patients, eventually we'd see what percentage of particular symptoms indicate a particular disease/condition/disorder/etc.
+
+I understand people do their own research on Web MD and often go to a doctor and a doctor laughs and tells them what they read is incorrect, but this is because WebMD is not considering everything else about the patient.  
+
+For instance low blood pressure in a 24 year old athlete is not an indicator of a problem as it would be for say an old sedentary and obese 65 year old male. 
+
+Doctors should be detectives, puzzle solvers or scientists, but often I find they are quick to get you in and out of your office for that paycheck.  They see too many patience to devote enough time to solve your obscure case.  And let's say it is indeed an obscure case.  Imagine only 100 people have had your condition, no doctor could ever be expected to piece together the puzzle.  But if those 100 people were logged,  the computer could compare against that.
+
+At best we could train individuals to be intermediaries between the patient and the computer system, so training for general practitioners could be lowered considerably.   And in doing so, their pay would be much lower which would allow money to be used for other things.  more testing labs, more MRI machines, etc.
+
+Imagine going into the automated medical facility and getting your blood work and cat-scan done all in one place.  It would seem to me that your chance of a correct diagnosis would be MUCH higher than dealing with a human.  Most of medical school is just learning IMMENSE text book knowledge and analysis skills, both of which are best handled by a computer.
+
+_____
+
+&amp;gt; *This is a footnote from the CMV moderators. We'd like to remind you of a couple of things. Firstly, please* ***[read through our rules](http://www.reddit.com/r/changemyview/wiki/rules)***. *If you see a comment that has broken one, it is more effective to report it than downvote it. Speaking of which,* ***[downvotes don't change views](http://www.reddit.com/r/changemyview/wiki/guidelines#wiki_upvoting.2Fdownvoting)****! Any questions or concerns? Feel free to* ***[message us](http://www.reddit.com/message/compose?to=/r/changemyview)***. *Happy CMVing!*</original_post>
+    </submission>
+  <comment id="29330958480.0" user="Yxoque" delta="False">
+    <text>I feel like you're ignoring the human aspect or at least not realizing just how important it is.
+
+Most problems a GP sees are relatively mundane. It's not as much that a GP wants to quickly get you out of their office to cash that paycheck, but rather that most problems are tackled pretty quickly. More complicated problems should be handled by a specialist and it's part of a GP's job to connect their patients with the proper specialists. So yeah, that part can probably be done by a computer.
+
+However, the fact that the doctor is a human is still very important. People are more honest and open towards a human they know and trust and GPs can generally tell if someone is holding back or lying, something a computer might be unable to do.
+
+There's also more to being a doctor than looking at symptoms and giving people medication. For example, do you know what's just as effective against alcoholism as a twelve-stop program? A five minute conversation with a doctor explaining the risks involved. There's no way a computer can be that effective for things like this. And this isn't limited to drinking, but also other lifestyle interventions.
+
+Finally there's something very important which is called "the doorknob effect" in my language. People come to their doctor with some minor problem and when the doctor is wrapping up they'll start asking about a bigger or more embarrassing problem. This is a very human to human interaction, something that can't be done via computer.
+
+And the human aspect of being a GP is definitely more than 10% of what they do. A lot of things a GP sees are garden variety mental issues such as burnout and depression. Diagnosing those properly means making sure the patient is honest about their complaints and symptoms and treatment is easier when the patient feels like a human is listening, caring and taking them seriously.</text>
+    </comment>
+  <comment id="29331010217.0" user="OnlyOnceThreetimes" delta="False">
+    <text>I think when I say 10% my main point is that someone with lesser training could do this.  So the person wouldn't be a 'doctor' they would be a type of well trained Nurse.
+
+The years and years of medical school is mostly hammering hard facts and research into the doctor's brain.  90% of their job is just reading symptoms.  This is so costly in terms of time and money.
+
+There is a massive shortage of Doctors in many areas and many of  those doctors are simply not good at their job.  Whereas a computer is consistent.
+
+I'd argue that the scenarios described above could be better handled by a counsellor/medical paired with a highly advanced computer rather than a doctor.</text>
+    </comment>
+  <comment id="29331058630.0" user="inspired2apathy" delta="False">
+    <text>You're describing a Physician Assistant, which is already a job.</text>
+    </comment>
+  <comment id="29331140809.0" user="OnlyOnceThreetimes" delta="False">
+    <text>And that is my point.  They are paid less.  This would free up millions of dollars to pour into creating the infrastructure that I speak of above.
+
+Perhaps they could be trained slightly more.  A highly skilled nurse paired with a highly sophisticated computer.</text>
+    </comment>
+  <comment id="29331154400.0" user="inspired2apathy" delta="False">
+    <text>I'm starting to think you don't understand as much as you think about AI or medicine.
+
+- Reasoning-based AI of the kind you suggest has consistently had limited real-world applications
+- Machine Learning, which has been successful, typically targets narrow use cases, such as diagnostic imaging
+- Medical record systems are not compatible across vendors
+- Medical records are not recorded consistently across physicians
+- We already have a wide variety of medium-skill workers in medicine
+- Costs of labor are not a major component in most healthcare costs.  Equipment, medicine, hospital space, and chronic care are all much bigger drivers of cost.</text>
+    </comment>
+  <comment id="29331191246.0" user="OnlyOnceThreetimes" delta="False">
+    <text>I actually did my masters in AI and bioinformatics. I also work in the medical field as a Software Engineer.  I understand these things EXTREMELY well.  This is why I've made this post.
+
+I do realize the infrastructure is not in place.  However, if a centralized database was slowly being built over a period of 3-4 years, I am confident with our current tech, this would be achievable.  
+
+Analyzing this data is quite easy and current A.I. is MORE than sufficient.  You are vastly underestimating cutting edge AI that is out there today.  The algorithms used to analyze data for simple advertising is far more advanced than anything that would be required.
+</text>
+    </comment>
+  <comment id="29331272616.0" user="inspired2apathy" delta="False">
+    <text>&amp;gt; centralized database
+
+And you're comfortable with the privacy/security implications?
+
+Sure, there's lots of cool statistical toys, like structure-learning in MRF, deep learning, etc.  But the research efforts focus on narrow problems where data alone is enough.  Medical school is all about deductive and and inductive logic, which, last time I checked, is still NP-hard, in addition to being extraordinarily difficult to define problems.
+
+I'm also quite familiar with the state-of-the-art and did a masters in machine learning and computational modeling at CMU.
+
+"AI" is likely to provide the most value in medicine the same place it has elsewhere, in narrow data-driven scenarios to support an domain expert.</text>
+    </comment>
+  <comment id="29331772598.0" user="OnlyOnceThreetimes" delta="False">
+    <text>Excuse my arrogance, but I'm not certain you know what you are talking about .
+
+Not sure why you think NP-Hard has anything to do with it.  You do realize NP-hard is just referencing the algorithm required to solve and thus the time it takes, right?  
+
+&amp;gt; Sure, there's lots of cool statistical toys, like structure-learning in MRF, deep learning, etc. But the research efforts focus on narrow problems where data alone is enough. Medical school is all about deductive and and inductive logic, which, last time I checked, is still NP-hard, in addition to being extraordinarily difficult to define problems.
+
+How can you say this when Google has already produced a program that uses intuition to solve the 'Go' problem with [AlphaGo](https://en.wikipedia.org/wiki/AlphaGo)
+
+Furthermore, what particular problem are you defining to be NP-Hard?  And you say you checked.  Where did you check?  I wasn't aware this problem was already defined.
+
+</text>
+    </comment>
+  <comment id="29331794498.0" user="inspired2apathy" delta="False">
+    <text>My point was that encoding known medical knowledge requires a reasoning system, like SAT. SAT is a known NP-hard problem and not an area of active research.
+
+AlphaGo is a deep learning model not logical inference.  Like all other hot topics in ML, it's a focused solution for a specific problem, not a general purpose reasoning system.  General purpose Q&amp;amp;A like Watson sounds great, but hasn't had the same success in real-world problems.
+</text>
+    </comment>
+  <comment id="29331846649.0" user="OnlyOnceThreetimes" delta="False">
+    <text>I see the thrust of your argument to be : "My point was that encoding known medical knowledge requires a reasoning system"
+
+Can you elaborate on what in particular you mean by reasoning system?  
+
+I'd have to understand what in particular about it that a computer cnanot solve
+</text>
+    </comment>
+  </thread>

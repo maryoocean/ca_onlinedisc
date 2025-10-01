@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<thread>
+  <submission id="185873319.0" index="8" link="https://www.reddit.com//r/changemyview/comments/32nwrr/cmv_google_chrome_is_better_than_mozilla_firefox/">
+    <title>CMV: Google Chrome is better than Mozilla Firefox</title>
+    <original_poster>zer0t3ch</original_poster>
+    <original_post>First of all, this is an all-encompassing opinion, not a statement of fact. I am in no way saying that Chrome is technologically superior or anything of that nature, it's just.... well..... *better*.
+
+# My reasons
+
+* **Chrome is more secure**
+ * as far as I can tell, this is basically undeniable fact. Tab sandboxing being the most obvious feature, but there also hasn't been an vital exploit (that I'm aware of) in years
+* **Better technology support**
+ * I haven't checked in a while, but Chrome always seems the fastest to adopt new technologies, which is great as both a consumer and a developer
+* **Ease-of-use**
+ * As an end-user, this one is key. I install Chrome, I'm good to go. Get an Android phone with Chrome; Log in on both, now everything is synced. Want to see currently opened tabs? Great. It's just so simple and streamlined. (Coincidentally I'm a Linux user who hates Apple for the exact reason of making things "just work")
+* **Chrome Apps/Extensions**
+ * From what I can tell, Chrome has a lot more people developing for it's web store, while Firefox's add-ons site is dated and minimally supported. Also, from what I understand, Firefox completely lacks any "Apps" and while I understand why not everyone can agree that this is an inherent con, I regularly use apps such as SSH, VNC, Google Play Music (for the mini player), and Hangouts.
+* **Development**
+ * I know FF has a lot of developer tools, as does Chrome. I honestly haven't used FF for development in years, so I have no basis as to which is better.
+
+---
+
+&amp;gt; *Hello, users of CMV! This is a footnote from your moderators. We'd just like to remind you of a couple of things. Firstly, please remember to* ***[read through our rules](http://www.reddit.com/r/changemyview/wiki/rules)***. *If you see a comment that has broken one, it is more effective to report it than downvote it. Speaking of which,* ***[downvotes don't change views](http://www.reddit.com/r/changemyview/wiki/guidelines#wiki_upvoting.2Fdownvoting)****! If you are thinking about submitting a CMV yourself, please have a look through our* ***[popular topics wiki](http://www.reddit.com/r/changemyview/wiki/populartopics)*** *first. Any questions or concerns? Feel free to* ***[message us](http://www.reddit.com/message/compose?to=/r/changemyview)***. *Happy CMVing!*</original_post>
+    </submission>
+  <comment id="27715546575.0" user="[deleted]" delta="False">
+    <text>&amp;gt; as far as I can tell, this is basically undeniable fact. Tab sandboxing being the most obvious feature, but there also hasn't been an vital exploit (that I'm aware of) in years
+
+https://www.youtube.com/watch?v=Rkxg03z2PEo
+
+Don't trust for a minute that everything you post, or possibly even type, isn't logged in some google server farm somewhere.
+
+&amp;gt; I haven't checked in a while, but Chrome always seems the fastest to adopt new technologies, which is great as both a consumer and a developer
+
+Chromecast is GREAT for streaming Netflix from my phone to my TV, but TERRIBLE for streaming videos from my computer to my TV.
+
+Honestly, I use Chrome.  And I like it.  But [this cartoon](http://donthatethegeek.com/wp-content/uploads/2015/01/funny-Google-Chrome-absorbing-RAM.jpg) sums up my major complaint.  Whenever I get a popup warning that my computer is being taxed, guess what program is to blame?</text>
+    </comment>
+  <comment id="27715813239.0" user="zer0t3ch" delta="False">
+    <text>You make 2 fine points, both that don't bother me much, though you also reminded me of another reason not to completely uninstall chrome: my 3 Chromecasts. Thankfully I don't need to worry about streaming videos from my computer because I basically have a small server farm in my basement for Plex and things, I just use the plugin to stream web content to them.</text>
+    </comment>
+  <comment id="27716173255.0" user="[deleted]" delta="False">
+    <text>Oh actually there's a chrome extension for VLC player coming out... well coming out whenever the hell they feel like it. 
+
+Whatever "soon" means.  VLC is a champion.</text>
+    </comment>
+  <comment id="27716175670.0" user="zer0t3ch" delta="False">
+    <text>What do you mean? What's the purpose? </text>
+    </comment>
+  <comment id="27716196868.0" user="[deleted]" delta="False">
+    <text>VLC player is the best video player out there and they're working on making it chromecast compatible.</text>
+    </comment>
+  <comment id="27716200306.0" user="zer0t3ch" delta="False">
+    <text>Oh ok, I had it backwards, I thought you meant a VLC extension for Chrome. Makes more sense now. Seriously though, if you have a Chromecast and personal video files you want to stream off your PC, Plex is the way to go, on a desktop or a server.</text>
+    </comment>
+  <comment id="27716274674.0" user="[deleted]" delta="False">
+    <text>The problem is that my modem/router is in my bedroom about 60 feet from my living room TV so it lags like *crazy*.
+
+And if it did the netflix thing where it paused to buffer I'd be fine but it just soldiers through, choppy as the sea.</text>
+    </comment>
+  <comment id="27716289053.0" user="zer0t3ch" delta="False">
+    <text>Interesting. Unless you always get that, sounds like the computer running Plex isn't powerful enough to do the live-encoding that it does for streaming like that. If it is actually the router, it shouldn't be that bad, you might want to get a new one. (The best ones are the ones with directional antennas.)</text>
+    </comment>
+  </thread>

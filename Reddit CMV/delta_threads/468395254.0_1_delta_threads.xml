@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<thread>
+  <submission id="468395254.0" index="1" link="https://www.reddit.com//r/changemyview/comments/7qvc3a/cmv_congress_should_change_congressional/">
+    <title>CMV: Congress should change Congressional elections to Mixed Member Proportional to end gerrymandering.</title>
+    <original_poster>huadpe</original_poster>
+    <original_post>Congress has the power to regulate and alter the "times, places and manner of holding elections for Senators and Representatives" under Article I, Section 4 of the Constitution.
+
+Currently, under this power, the Congress [has mandated that all members of the House of Representatives be elected from single-member geographic districts.](https://www.law.cornell.edu/uscode/text/2/2c)
+
+I propose that Congress repeal this provision and replace it with one requiring that members of the House be elected under a mixed member proportional system, with a bare majority of the seats apportioned to a state being divided into geographic districts, and the remainder being used to fill in based on party vote in those seats using the D'Hondt method.
+
+For states with only 1 seat, this would mean no change.
+
+For states with 2 seats, this would mean both districts were "at large."  The party who won the normal "at large" seat would also win the second at large seat if they had 2/3 of the two-party vote in the state, or in the event of a three+ party split, if they had achieved twice as many votes as the next-most-vote-getting party.  Otherwise, the next most successful party would get the second seat.
+
+For states with 3 seats, 2 would be geographic and 1 would be at-large.
+
+For states with 4 seats, 2 would be geographic and 2 would be at-large.  
+
+For states with 5 seats, 3 would be geographic and 2 would be at-large.
+
+And so on.
+
+I don't have a firm threshold for party qualification for at large seats, but I'd be fine with anything from 5-15%.  Members running as independents would be able to run in geographic districts only, and I'd allow that any party winning a geographic district be allowed to get proportional seats regardless of the threshold.
+
+
+
+This would effectively end gerrymandering, while still allowing local representation of regions of states with sufficient population to have 3 or more representatives.  The boundaries of those districts would become far less important, because the at-large seats would ensure that packing and cracking have little if any effect on overall partisan makeup.
+
+This would also not require a constitutional amendment, since it would be able to be enacted under the Article I Section 4 power.
+
+I think that at least one party (probably the Democrats) should run on this platform, and if elected, pass it into law.
+
+*edit* fixed an error when I inserted a paragraph at the wrong spot when composing this.
+
+_____
+
+&amp;gt; *This is a footnote from the CMV moderators. We'd like to remind you of a couple of things. Firstly, please* ***[read through our rules](http://www.reddit.com/r/changemyview/wiki/rules)***. *If you see a comment that has broken one, it is more effective to report it than downvote it. Speaking of which,* ***[downvotes don't change views](http://www.reddit.com/r/changemyview/wiki/guidelines#wiki_upvoting.2Fdownvoting)****! Any questions or concerns? Feel free to* ***[message us](http://www.reddit.com/message/compose?to=/r/changemyview)***. *Happy CMVing!*</original_post>
+    </submission>
+  <comment id="30038552535.0" user="BrotherItsInTheDrum" delta="False">
+    <text>I think this would be a positive change, but it wouldn't "end" gerrymandering. It reduces the importance somewhat, but people will still try to draw ridiculous boundaries around the geographic districts to gain an advantage.
+
+I've argued for a related system -- for smaller states we just use proportional representation. For larger states, we split them into geographic regions of somewhere between 5-10 members, and use proportional representation within each region.
+
+I think this does a better job of reducing the importance of gerrymandering -- because there are *no* single-member districts -- while still ensuring that geographic interests are represented in large, diverse states.</text>
+    </comment>
+  <comment id="30038588782.0" user="huadpe" delta="False">
+    <text>&amp;gt;I think this would be a positive change, but it wouldn't "end" gerrymandering. It reduces the importance somewhat, but people will still try to draw ridiculous boundaries around the geographic districts to gain an advantage.
+
+How?  What advantage could be gained?</text>
+    </comment>
+  <comment id="30038602722.0" user="BrotherItsInTheDrum" delta="False">
+    <text>... maybe I misunderstood your proposal.
+
+Under your system, aren't half the seats given to the winners of geographic districts whose lines are drawn using the same process that we use today?
+
+Those districts will still be gerrymandered, just like they are today.</text>
+    </comment>
+  <comment id="30038611729.0" user="huadpe" delta="False">
+    <text>The other half are given out though in a manner specifically designed to ameliorate gerrymandering.  So if you pack all the Democrats into 1 district and you win the other 5, say, but the state is 50/50 evenly split on popular vote, then the 6 at large seats will be apportioned 5 democrats / 1 republican to make up for it.
+
+You can gerrymander your heart out for the geographic seats.  Then the at large seats smack you upside the head with a 2x4 that says "every vote matters."</text>
+    </comment>
+  <comment id="30038654206.0" user="BrotherItsInTheDrum" delta="False">
+    <text>Ah, I did misunderstand.
+
+Is there a detailed description of the exact system you'd propose that you can link? I don't think I've seen a system like this before.
+
+Does an individual cast a single vote, which is used for both the geographic and at-large districts? Or do they cast two separate votes?</text>
+    </comment>
+  <comment id="30038669684.0" user="huadpe" delta="False">
+    <text>It's a well known proposal.  New Zealand and Germany it for their national government.  
+
+https://en.wikipedia.org/wiki/Mixed-member_proportional_representation
+
+As I proposed it, one vote.</text>
+    </comment>
+  <comment id="30038697952.0" user="BrotherItsInTheDrum" delta="False">
+    <text>In that case I'm struggling to see the point of this.
+
+My understanding is that the allocation of seats is always the same as with proportional representation. If you win 60% of the votes, you get 60% of the seats, regardless of how the geographic districts are drawn or who wins them. So what's the point of the geographic districts?</text>
+    </comment>
+  <comment id="30038708635.0" user="huadpe" delta="False">
+    <text>The idea is to retain the benefits of local representation.  So for a really big state like New York, you would want politicians who represent Buffalo to speak to the local issues Buffalo has that New York City does not.</text>
+    </comment>
+  <comment id="30038737792.0" user="BrotherItsInTheDrum" delta="True">
+    <text>So there are a couple things I can't quite get past:
+
+First, you make a reference to independents in your post. But anyone who votes for an independent is abstaining from the at-large election, right? If a popular independent runs, they would be essentially playing spoiler for the at-large election.
+
+Second, I worry that people will "feel" like they're voting for an individual, when really they're *primarily* voting for a party. For example, Republicans could run someone really moderate in a safe Democratic district. People voting for him will feel like they're voting for a moderate, when really the effect of their vote is to elect a much more conservative Republican from the at-large list.</text>
+    </comment>
+  </thread>

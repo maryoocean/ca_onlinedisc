@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<thread>
+  <submission id="185873319.0" index="15" link="https://www.reddit.com//r/changemyview/comments/32nwrr/cmv_google_chrome_is_better_than_mozilla_firefox/">
+    <title>CMV: Google Chrome is better than Mozilla Firefox</title>
+    <original_poster>zer0t3ch</original_poster>
+    <original_post>First of all, this is an all-encompassing opinion, not a statement of fact. I am in no way saying that Chrome is technologically superior or anything of that nature, it's just.... well..... *better*.
+
+# My reasons
+
+* **Chrome is more secure**
+ * as far as I can tell, this is basically undeniable fact. Tab sandboxing being the most obvious feature, but there also hasn't been an vital exploit (that I'm aware of) in years
+* **Better technology support**
+ * I haven't checked in a while, but Chrome always seems the fastest to adopt new technologies, which is great as both a consumer and a developer
+* **Ease-of-use**
+ * As an end-user, this one is key. I install Chrome, I'm good to go. Get an Android phone with Chrome; Log in on both, now everything is synced. Want to see currently opened tabs? Great. It's just so simple and streamlined. (Coincidentally I'm a Linux user who hates Apple for the exact reason of making things "just work")
+* **Chrome Apps/Extensions**
+ * From what I can tell, Chrome has a lot more people developing for it's web store, while Firefox's add-ons site is dated and minimally supported. Also, from what I understand, Firefox completely lacks any "Apps" and while I understand why not everyone can agree that this is an inherent con, I regularly use apps such as SSH, VNC, Google Play Music (for the mini player), and Hangouts.
+* **Development**
+ * I know FF has a lot of developer tools, as does Chrome. I honestly haven't used FF for development in years, so I have no basis as to which is better.
+
+---
+
+&amp;gt; *Hello, users of CMV! This is a footnote from your moderators. We'd just like to remind you of a couple of things. Firstly, please remember to* ***[read through our rules](http://www.reddit.com/r/changemyview/wiki/rules)***. *If you see a comment that has broken one, it is more effective to report it than downvote it. Speaking of which,* ***[downvotes don't change views](http://www.reddit.com/r/changemyview/wiki/guidelines#wiki_upvoting.2Fdownvoting)****! If you are thinking about submitting a CMV yourself, please have a look through our* ***[popular topics wiki](http://www.reddit.com/r/changemyview/wiki/populartopics)*** *first. Any questions or concerns? Feel free to* ***[message us](http://www.reddit.com/message/compose?to=/r/changemyview)***. *Happy CMVing!*</original_post>
+    </submission>
+  <comment id="27716945494.0" user="brainandforce" delta="False">
+    <text>Tell this to /r/Surface.
+
+Chrome sucks because it has zero regard for battery life and suboptimal input support. The on-screen keyboard pops up every time you touch something, regardless of whether the keyboard is attached, the trackpad doesn't support smooth pinch-zoom, and the pen is entirely unsupported. Not to mention that Chrome uses the VP9 decoder which is yet another ridiculous drain on battery life unless you force h264 rendering. This is true on Windows PCs and Macs.
+
+Yes, I use Internet Explorer on my Surface and think it's by far the best browser on any Windows ultrabook. But even Firefox handles video rendering and battery life better, though its gesture support i even worse.</text>
+    </comment>
+  </thread>

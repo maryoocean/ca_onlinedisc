@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<thread>
+  <submission id="96123581.0" index="1" link="https://www.reddit.com//r/changemyview/comments/1l89fh/i_believe_that_compiled_binary_programs_should/">
+    <title>I believe that compiled binary programs should not be protected by copyright law. CMV</title>
+    <original_poster>binlargin</original_poster>
+    <original_post>The default stance is that published works are in the public domain, but copyright exists to enrich the public domain via an agreement between society and creators of the useful arts. Authors receive a temporary monopoly over their creation while society is enriched by a greater number of high quality works entering the public domain once copyright has expired.
+
+When you write computer software you generally write it in an English-like language and this is compiled to a machine-readable "binary" designed to run on today's computer hardware and software. In closed source software only the binary is released, yet these are protected by copyright law because they are a derived work of the source code. 
+
+Due to the fast pace of technological change today's software will be of extremely limited use when its copyright protection has expired. Binaries will be far less useful than the unpublished source code and in my opinion, their protection violates the spirit of copyright, sets a bad example and robs the public domain giving future generations a bum deal.
+
+My controversial view:
+
+Copyright law should specifically exclude protection for "obfuscated works" and that this should apply to binaries and other said works unless obfuscation is the subject of the work itself (such as a book of puzzles). Computer software should only be protected if the source code is shared either as part of the publication or with a copyright registration authority. I believe it's reasonable for a fee to be charged for keeping the code in escrow until the copyright expires.
+
+Change my view Reddit</original_post>
+    </submission>
+  <comment id="26841735696.0" user="sarah_von_trapp" delta="True">
+    <text>Software is not the only end product with an obfuscated means of production. It's true for most copyrighted products.
+
+You're basically suggesting that if a person wants to a acquire a copyright, they should be forced to turn over their intermediary work so that it can be examined by later generations for the benefit of society. If a person writes a book, should they be forced to turn over their notes and rough drafts? If a company wants to copyright a TV show, should they be forces to turn over the notes of their meetings and the casting tapes and so forth?
+
+If not, why does this stricture apply only to software?</text>
+    </comment>
+  </thread>

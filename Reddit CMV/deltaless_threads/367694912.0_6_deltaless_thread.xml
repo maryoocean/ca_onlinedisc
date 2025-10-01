@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<thread>
+  <submission id="367694912.0" index="6" link="https://www.reddit.com//r/changemyview/comments/62wz7k/cmv_rng_can_be_a_good_mechanic_even_in/">
+    <title>CMV: RNG can be a good mechanic, even in competitive gaming</title>
+    <original_poster>alfredo094</original_poster>
+    <original_post>Okay so, I'm not completely sold out on RNG mechanics, but playing the Game of Thrones board game made me consider RNG mechanics (for those that don't know, the GoT board game has an optional RNG mechanic that adds up to +3 in combat strenght, where numbers don't usually go above 10. This is the only random mechanic in the game).
+
+I think there are some cases where RNG hides over the fact that the game is not deep at all (like RISK, Monopoly and to some extent Fire Emblem, although I fucking love FE), but I think in a well-designed game it adds a layer of depth to it.
+
+1) In games where snowballing is a thing (so many of them), it prevents snowballing since there is a chance for the losing team to make a comeback - the winner thus has to keep plan B in case plan A gets fucked by the RNG, thus he has to stratigize further in order to keep his advantage instead of just pushing a single plan.
+
+2) It forces adaptation on a completely new level and makes risk-taking much more prevalent, since there is a chance of something going wrong without your control. In Smash Bros. games, for example, people would have to work around items randomly appearing, and this could open a huge amount of possibilities in the game.
+
+3) It makes capitalizing on advantages much more important - in the aforementioned GoT example, you can get in very rare cases a +3 in combat strenght, but it's not going to matter much if you have the possibility to go in with 10 strenght while your opponent has 4.
+
+4) It makes it more exciting for the audience, and this is really important for games that are pushing for a big competitive scene (like League of Legends).
+
+I don't advocate for abuse of RNG, it doesn't even have to be true RNG (like LoL's crit chance) but I think it does have a place in competitive gaming.
+</original_post>
+    </submission>
+  <comment id="29250518860.0" user="gunnervi" delta="False">
+    <text>Rng should satisfy 3 criteria to be good for a competitive game:
+
+1.  Low variance:  the effect of the randomness should not be more significant than the effect of skill.  For example, 80-100% random damage is fine, 1-100% random damage is not.
+
+2.  Consistency, aka, regression to the mean: the random element should be frequent enough (either over one match, or a series of matches, depending on how the game is played) that you can expect it to hurt you as much as it harms you.  For games with a deck, this means you should expect to go through most of the deck in a match or in a series of matches.
+
+3.  Control:  the game should have mechanics that allow the player to influence the rng, at least indirectly.  This is why virtually all tcgs have cards that let you search your deck.
+
+Rng elements that do not satisfy the above (*especially* number 1) generally turn games of skill into games of chance, which by their nature cannot be competitive.
+Many successful competitive games have rng elements that do not satisfy all the above criteria.  But I'd argue that these games have competitive scenes in spite of their rng elements.
+
+Finally, I'd argue that items in Super Smash Bros. violate all 3 of these rules.  Items like poke balls and assist trophies are high variance by design.  Other items vary from useless (the smoke ball) to game defining (heart containers, bumpers).  Moreover, games are short enough that you're unlikely to see regression to the mean.  You'll see it over the course of a career as a competitive gamer, but not over the course of a tournament.  Finally, outside of a small number of characters that spawn projectiles (wario's bike, zero suit's armor), interaction with the item rng is limited to use of the items themselves.  There's a reason they're not in competitive play.</text>
+    </comment>
+  </thread>

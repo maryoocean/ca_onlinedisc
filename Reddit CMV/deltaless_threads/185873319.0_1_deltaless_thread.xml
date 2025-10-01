@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<thread>
+  <submission id="185873319.0" index="1" link="https://www.reddit.com//r/changemyview/comments/32nwrr/cmv_google_chrome_is_better_than_mozilla_firefox/">
+    <title>CMV: Google Chrome is better than Mozilla Firefox</title>
+    <original_poster>zer0t3ch</original_poster>
+    <original_post>First of all, this is an all-encompassing opinion, not a statement of fact. I am in no way saying that Chrome is technologically superior or anything of that nature, it's just.... well..... *better*.
+
+# My reasons
+
+* **Chrome is more secure**
+ * as far as I can tell, this is basically undeniable fact. Tab sandboxing being the most obvious feature, but there also hasn't been an vital exploit (that I'm aware of) in years
+* **Better technology support**
+ * I haven't checked in a while, but Chrome always seems the fastest to adopt new technologies, which is great as both a consumer and a developer
+* **Ease-of-use**
+ * As an end-user, this one is key. I install Chrome, I'm good to go. Get an Android phone with Chrome; Log in on both, now everything is synced. Want to see currently opened tabs? Great. It's just so simple and streamlined. (Coincidentally I'm a Linux user who hates Apple for the exact reason of making things "just work")
+* **Chrome Apps/Extensions**
+ * From what I can tell, Chrome has a lot more people developing for it's web store, while Firefox's add-ons site is dated and minimally supported. Also, from what I understand, Firefox completely lacks any "Apps" and while I understand why not everyone can agree that this is an inherent con, I regularly use apps such as SSH, VNC, Google Play Music (for the mini player), and Hangouts.
+* **Development**
+ * I know FF has a lot of developer tools, as does Chrome. I honestly haven't used FF for development in years, so I have no basis as to which is better.
+
+---
+
+&amp;gt; *Hello, users of CMV! This is a footnote from your moderators. We'd just like to remind you of a couple of things. Firstly, please remember to* ***[read through our rules](http://www.reddit.com/r/changemyview/wiki/rules)***. *If you see a comment that has broken one, it is more effective to report it than downvote it. Speaking of which,* ***[downvotes don't change views](http://www.reddit.com/r/changemyview/wiki/guidelines#wiki_upvoting.2Fdownvoting)****! If you are thinking about submitting a CMV yourself, please have a look through our* ***[popular topics wiki](http://www.reddit.com/r/changemyview/wiki/populartopics)*** *first. Any questions or concerns? Feel free to* ***[message us](http://www.reddit.com/message/compose?to=/r/changemyview)***. *Happy CMVing!*</original_post>
+    </submission>
+  <comment id="27715289854.0" user="river710" delta="False">
+    <text>Chrome has many features, but it isn't the top in every class.
+
+* Chrome takes up more resources than other browsers. For users on budget PCs or people on weak laptops or netbooks, this may be a significant difference.
+
+* Chrome is not nearly as customizable as some other browsers. For users concerned with having everything personal and to their liking, Chrome may not be for them.
+
+* Most modern browsers are more or less equal in the security department, as far as I'm aware. But it doesn't matter anyway because they're all selling your data.
+
+* Ease of use is completely subjective. As far as installation goes, again, all browsers are pretty much the same, you run an .exe, magic happens, you have browser.
+
+I would agree chrome wins in the syncing department, for users who use multiple devices often and has a need to share things like bookmarks and textfiles, chrome may be the better option. Though I would argue that this feature offers little to most users.
+
+As for app and add on markets, it's a toss up, google offers a more streamlined and more stable addon experience, but many great additions never come to chrome for various reasons, which is better will very much be a case by case basis. I definitely don't think chrome has the "definitive" addon store.
+
+The one thing that I completely yield on is Technology support, Chrome definitely takes the cake there. But I feel that there are more than enough pros and cons to say that neither is difinitively better than the other. </text>
+    </comment>
+  <comment id="27715302408.0" user="zer0t3ch" delta="False">
+    <text>Isn't Chrome lighter on CPU than Firefox?</text>
+    </comment>
+  <comment id="27715319486.0" user="the_omega99" delta="False">
+    <text>Nope. [Here's a benchmark that shows Firefox is slightly faster in some cases and equal in the rest](http://arewefastyet.com/). But the memory is a more noteworthy difference. Chrome with 5 tabs/24 extensions = 1.5 GB of RAM. Firefox with 5 tabs/19 addons = 600 MB.</text>
+    </comment>
+  <comment id="27715320527.0" user="zer0t3ch" delta="False">
+    <text>RAM has never been an issue, but I am aware of that. I believe the increased RAM usage has to do with tab sandboxing.</text>
+    </comment>
+  <comment id="27715327831.0" user="neyev" delta="False">
+    <text>Some Firefox devs claim this is a myth. We will have to see if Firefox does manage to do multiprocesses without a large RAM overhead though.
+
+https://billmccloskey.wordpress.com/2013/12/05/multiprocess-firefox/#mem
+
+&amp;gt; Many people who hear about the project are concerned that multiple processes will cause the memory usage of Firefox to balloon. There’s a fairly widespread belief that more processes will require a lot more memory. I don’t believe this will be the case though.</text>
+    </comment>
+  <comment id="27716053123.0" user="kbrosnan" delta="False">
+    <text>This is because the first round of E10S will be content separated from the interface. There will be only one more process. </text>
+    </comment>
+  <comment id="27716498924.0" user="Bodertz" delta="False">
+    <text>I don't believe he was talking about that, though.</text>
+    </comment>
+  <comment id="27715463153.0" user="enlightened-giraffe" delta="False">
+    <text>&amp;gt; Most modern browsers are more or less equal in the security department, as far as I'm aware. But it doesn't matter anyway because they're all selling your data.
+
+While you make fair points otherwise i have to fully disagree that "it doesn't matter anyway", it's worlds apart if google uses your browsing information to deliver target ads (and third parties don't have any access to your data) and if some malware gets through your browser and siphons off sensitive information which can lead to very real damage.</text>
+    </comment>
+  <comment id="27716349041.0" user="dblohm7" delta="False">
+    <text>&amp;gt; because they're all selling your data
+
+Mozilla does not sell user data.</text>
+    </comment>
+  </thread>
